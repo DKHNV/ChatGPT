@@ -1,17 +1,17 @@
 #Created by DKHNV
-#Gen4 12.04.2026
+#Gen5 19.04.2026
 
 /ip firewall address-list
 
 add list=chatgpt address=172.65.90.20/30 comment=chatgpt
 add list=chatgpt address=3.233.158.30/31 comment=chatgpt
 add list=chatgpt address=3.79.169.2/32 comment=chatgpt
-add list=chatgpt address=3.173.161.18/32 comment=chatgpt
-add list=chatgpt address=3.173.161.22/32 comment=chatgpt
-add list=chatgpt address=3.173.161.77/32 comment=chatgpt
-add list=chatgpt address=3.173.161.115/32 comment=chatgpt
 add list=chatgpt address=3.233.158.32/32 comment=chatgpt
-add list=chatgpt address=17.111.103.83/32 comment=chatgpt
+add list=chatgpt address=17.171.47.21/32 comment=chatgpt
+add list=chatgpt address=18.65.39.51/32 comment=chatgpt
+add list=chatgpt address=18.65.39.77/32 comment=chatgpt
+add list=chatgpt address=18.65.39.110/32 comment=chatgpt
+add list=chatgpt address=18.65.39.112/32 comment=chatgpt
 add list=chatgpt address=18.239.50.18/32 comment=chatgpt
 add list=chatgpt address=18.239.50.29/32 comment=chatgpt
 add list=chatgpt address=18.239.50.92/32 comment=chatgpt
@@ -28,8 +28,6 @@ add list=chatgpt address=34.128.128.0/32 comment=chatgpt
 add list=chatgpt address=34.160.81.0/32 comment=chatgpt
 add list=chatgpt address=54.229.75.109/32 comment=chatgpt
 add list=chatgpt address=63.177.157.111/32 comment=chatgpt
-add list=chatgpt address=66.33.60.35/32 comment=chatgpt
-add list=chatgpt address=76.76.21.123/32 comment=chatgpt
 add list=chatgpt address=104.18.2.136/32 comment=chatgpt
 add list=chatgpt address=104.18.3.136/32 comment=chatgpt
 add list=chatgpt address=104.18.32.42/32 comment=chatgpt
