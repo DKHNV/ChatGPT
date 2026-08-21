@@ -24,20 +24,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "academy.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "agentgarden.api.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.37.23",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.37.23",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "agentgarden.api.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.37.23",
+        "172.64.150.233"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -73,21 +122,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "alignment.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "64.239.109.1",
         "64.239.109.193",
-        "64.239.109.65"
+        "64.239.123.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -123,20 +180,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "amb-staging.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.47",
         "172.64.155.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -172,20 +237,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.240",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "amgen-labeling-workbench.fde.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.240",
         "172.64.155.16"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -213,20 +286,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "android.chat.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.42",
         "172.64.155.214"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "api.admin.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.41.167",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.41.167",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "api.admin.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.41.167",
+        "172.64.146.89"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -254,20 +376,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.33.190",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "api.ads.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.190",
         "172.64.154.66"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -303,20 +433,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.36.29",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "api.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.29",
         "172.64.151.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -352,20 +490,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -401,19 +547,68 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "107.178.243.93",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "argocd.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "107.178.243.93"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "artifacts.juno.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "104.18.38.11",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "104.18.38.11",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "artifacts.juno.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.38.11",
+        "172.64.149.245"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -422,7 +617,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 200,
-          "ip": "3.171.100.2",
+          "ip": "18.155.173.21",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -449,21 +644,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "18.155.173.21",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "auth.enterpriseservices.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "3.171.100.2",
-        "3.171.100.39",
-        "3.171.100.48"
+        "18.155.173.21",
+        "18.155.173.30",
+        "18.155.173.48"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -499,20 +702,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.41.241",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "auth.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.241",
         "172.64.146.15"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -540,20 +751,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.33.210",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "aw.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.210",
         "172.64.154.46"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -581,20 +800,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.33.113",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "blueberry.fde.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.113",
         "172.64.154.143"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "bps.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.41.52",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.41.52",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "bps.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.41.52",
+        "172.64.146.204"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -630,20 +898,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "52.72.207.165",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "brand-partners.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "52.72.207.165",
         "54.173.235.236"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -679,20 +955,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "100.56.135.130",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "brand.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "100.56.135.130",
-        "34.234.29.212"
+        "34.236.86.25"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -728,20 +1012,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.36.216",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "bzrcdn.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.216",
         "172.64.151.40"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -777,19 +1069,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "34.120.180.228",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "cdn.console.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.120.180.228"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -798,7 +1098,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "150.171.109.66",
+          "ip": "13.107.226.71",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -825,21 +1125,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "13.107.226.71",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "cdn.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.66",
-        "150.171.109.71",
-        "150.171.109.73"
+        "13.107.226.71",
+        "13.107.253.71",
+        "150.171.109.146"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -875,20 +1183,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.2.136",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "cdn.openaimerge.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.2.136",
         "104.18.3.136"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -897,7 +1213,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 302,
-          "ip": "150.171.109.66",
+          "ip": "13.107.226.71",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -924,21 +1240,111 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "13.107.226.71",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "cdn.staging.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.66",
-        "150.171.109.71",
-        "150.171.109.73"
+        "13.107.226.71",
+        "13.107.253.71",
+        "150.171.109.147"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "championevents.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "championevents.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.6.42",
+        "104.18.7.42"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "chat.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 308,
+          "ip": "104.18.37.228",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 308,
+          "ip": "104.18.37.228",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "chat.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.37.228",
+        "172.64.150.28"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -974,20 +1380,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.47",
         "172.64.155.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "click.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.36.242",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.36.242",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "click.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.36.242",
+        "172.64.151.14"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1015,20 +1470,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.34.75",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "coconut.fde.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.34.75",
         "172.64.153.181"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1064,19 +1527,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "184.105.99.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "community.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "184.105.99.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1112,20 +1583,70 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "console.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "cookbook.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 308,
+          "ip": "66.33.60.34",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 308,
+          "ip": "66.33.60.34",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "cookbook.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "66.33.60.34",
+        "66.33.60.67",
+        "76.76.21.164"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1153,20 +1674,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "creatoreducation.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1202,20 +1731,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "3.248.123.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "creators.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "3.248.123.157",
         "52.213.47.89"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1251,19 +1788,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "dagster-statscript.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1299,19 +1844,191 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "deploymentsafety.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 200,
+          "ip": "64.239.109.129",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.129",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "deploymentsafety.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "64.239.109.129",
+        "64.239.109.65",
+        "64.239.123.129"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "devday.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 200,
+          "ip": "64.239.109.65",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.65",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "devday.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "64.239.109.65",
+        "64.239.123.65"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "developers.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 200,
+          "ip": "64.239.109.65",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.65",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "developers.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "64.239.109.65",
+        "64.239.123.65"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "discord.verify.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 200,
+          "ip": "20.119.16.35",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "20.119.16.35",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "discord.verify.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "20.119.16.35"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1347,13 +2064,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.17.70.206",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "em.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.17.70.206",
@@ -1361,7 +2086,7 @@
         "104.17.72.206"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1389,20 +2114,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "emerging-talent.forum.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1411,7 +2144,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 302,
-          "ip": "18.160.46.26",
+          "ip": "18.238.109.32",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1438,21 +2171,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "18.238.109.32",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "enterpriseservices.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "18.160.46.26",
-        "18.160.46.46",
-        "18.160.46.47"
+        "18.238.109.32",
+        "18.238.109.47",
+        "18.238.109.48"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1480,20 +2221,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.38.167",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "evals.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.38.167",
         "172.64.149.89"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1521,13 +2270,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "151.101.130.133",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "event.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "151.101.130.133",
@@ -1535,7 +2292,48 @@
         "151.101.2.133"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "events.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "events.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "3.248.123.157",
+        "52.213.47.89"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1571,20 +2369,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.35.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "external.auth.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.233",
         "172.64.152.23"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "feather.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 403,
+          "ip": "104.18.34.227",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.34.227",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "feather.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.34.227",
+        "172.64.153.29"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1612,20 +2459,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 400,
+          "ip": "104.18.32.87",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "files.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.87",
         "172.64.155.169"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1661,13 +2516,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "104.16.92.80",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "go.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.92.80",
@@ -1675,7 +2538,7 @@
         "104.16.94.80"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1711,20 +2574,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "104.18.37.213",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "gov-demo.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.37.213",
         "172.64.150.43"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1752,20 +2623,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.214",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "gov.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.214",
         "172.64.155.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1774,7 +2653,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 200,
-          "ip": "150.171.109.113",
+          "ip": "150.171.109.145",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -1801,21 +2680,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "150.171.109.145",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "grants.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.113",
-        "150.171.109.73",
-        "150.171.109.74"
+        "150.171.109.145",
+        "150.171.109.147"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1851,20 +2737,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.43.67",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "gtm-innovation.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.43.67",
         "172.64.144.189"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1900,21 +2794,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "guardrails.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "64.239.109.1",
-        "64.239.109.193",
+        "64.239.109.65",
         "64.239.123.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1950,20 +2852,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.34.195",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "hooks-staging.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.34.195",
         "172.64.153.61"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1999,20 +2909,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 522,
+          "ip": "104.18.35.200",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "images.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.200",
         "172.64.152.56"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2048,20 +2966,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "intern.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2070,7 +2996,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 200,
-          "ip": "150.171.109.66",
+          "ip": "150.171.109.147",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -2097,21 +3023,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "150.171.109.147",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "jukebox.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.66",
-        "150.171.109.71",
-        "150.171.109.72"
+        "150.171.109.147",
+        "150.171.109.150"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2147,20 +3080,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.40.123",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "juno.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.40.123",
         "172.64.147.133"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2196,13 +3137,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "185.199.108.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "ka3d0s888non270n82k.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "185.199.108.153",
@@ -2210,7 +3159,7 @@
         "185.199.110.153"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2246,20 +3195,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2295,20 +3252,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.console.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2344,19 +3309,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.54.22.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.dagster-statscript.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.22.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2392,19 +3365,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.54.22.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.22.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2440,19 +3421,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.54.22.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.reader.dagster-statscript.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.22.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2488,19 +3477,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.54.22.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.reader.dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.22.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2536,19 +3533,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.54.22.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "latest.temporal.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.22.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2584,21 +3589,71 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "learn.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "64.239.109.1",
-        "64.239.109.65",
-        "64.239.123.1"
+        "64.239.109.129",
+        "64.239.109.193"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "link.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 200,
+          "ip": "18.154.144.38",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "18.154.144.38",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "link.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "18.154.144.38",
+        "18.154.144.58",
+        "18.154.144.59"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2626,13 +3681,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 204,
+          "ip": "100.29.224.226",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "links.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "100.29.224.226",
@@ -2640,7 +3703,47 @@
         "52.72.136.161"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "mail-review.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "34.36.214.74",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.36.214.74",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "mail-review.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "34.36.214.74"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2668,20 +3771,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.82",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "mango.fde.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.82",
         "172.64.145.174"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2717,20 +3828,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "math.forum.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2758,20 +3877,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.40.135",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "merchant.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.40.135",
         "172.64.147.121"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "mergeproxy.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 403,
+          "ip": "104.18.42.124",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.124",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "mergeproxy.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.42.124",
+        "172.64.145.132"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2807,13 +3975,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "185.199.108.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "model-spec.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "185.199.108.153",
@@ -2821,7 +3997,7 @@
         "185.199.110.153"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2849,20 +4025,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.37.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "nori-webhooks.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.37.188",
         "172.64.150.68"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "nori.api.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 405,
+          "ip": "104.18.38.89",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 405,
+          "ip": "104.18.38.89",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "nori.api.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.38.89",
+        "172.64.149.167"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2898,20 +4123,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-asia-southeast1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2947,20 +4180,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-europe-north1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2996,20 +4237,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-europe-west1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3045,19 +4294,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.104.93",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-us-central1-mori.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.104.93"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3093,20 +4350,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-us-central1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3142,20 +4407,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-us-east1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3191,20 +4464,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-us-east5.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3240,20 +4521,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oai-gke-us-west1.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3289,20 +4578,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.41.158",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oaistatic.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.158",
         "172.64.146.98"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3338,20 +4635,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3387,20 +4692,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 400,
+          "ip": "104.18.32.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "ogimg.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.47",
         "172.64.155.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3436,20 +4749,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "openai-team.forum.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3485,20 +4806,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.33.45",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.45",
         "172.64.154.211"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "openhouse.api.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 404,
+          "ip": "104.18.40.148",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.40.148",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "openhouse.api.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.40.148",
+        "172.64.147.108"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3534,20 +4904,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 308,
+          "ip": "104.18.37.215",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "operator.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.37.215",
         "172.64.150.41"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3575,20 +4953,69 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.36.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "papaya.fde.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.53",
         "172.64.151.203"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "pay.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 204,
+          "ip": "104.18.35.156",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 204,
+          "ip": "104.18.35.156",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "pay.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "104.18.35.156",
+        "172.64.152.100"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3624,20 +5051,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.41.9",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "prism.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.9",
         "172.64.146.247"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3673,20 +5108,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.35.127",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "privacy-pass-issuer.api.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.127",
         "172.64.152.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3722,20 +5165,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.41.104",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "privacy.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.104",
         "172.64.146.152"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3744,7 +5195,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 200,
-          "ip": "64.239.109.1",
+          "ip": "64.239.109.129",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -3763,21 +5214,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "64.239.109.129",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "progress.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "64.239.109.1",
         "64.239.109.129",
-        "64.239.109.65"
+        "64.239.109.65",
+        "64.239.123.129"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3813,19 +5272,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "reader.dagster-statscript.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3861,19 +5328,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "reader.dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3909,19 +5384,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "reader.spark8s.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3957,20 +5440,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.36.169",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "realtime.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.169",
         "172.64.151.87"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4006,20 +5497,120 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.37.248",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "recruiting.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.37.248",
         "172.64.150.8"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com": {
+      "attempts": [
+        {
+          "detail": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)",
+          "ip": "13.65.2.22",
+          "port": 443,
+          "status": "TLS_ERROR"
+        }
+      ],
+      "consecutive_failures": 1,
+      "ever_alive": false,
+      "failure_observations": 1,
+      "failure_since": "2026-08-21T17:58:03Z",
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
+        }
+      ],
+      "history_failures": 1,
+      "history_samples": 1,
+      "history_successes": 0,
+      "hostname": "responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": {
+        "at": "2026-08-21T17:58:03Z",
+        "attempts": [
+          {
+            "detail": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)",
+            "ip": "13.65.2.22",
+            "port": 443,
+            "status": "TLS_ERROR"
+          }
+        ],
+        "statuses": [
+          "TLS_ERROR"
+        ],
+        "type": "TLS_ERROR"
+      },
+      "last_ipv4": [
+        "13.65.2.22"
+      ],
+      "last_result": "FAILURE",
+      "last_success": null,
+      "stability_score": 0.0,
+      "status": "unknown"
+    },
+    "scim.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 404,
+          "ip": "20.245.73.109",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "20.245.73.109",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "scim.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "20.245.73.109"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4055,20 +5646,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "104.18.35.165",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "search.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.165",
         "172.64.152.91"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4104,20 +5703,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 301,
+          "ip": "34.196.88.212",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "send.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.196.88.212",
         "34.230.178.58"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4145,20 +5752,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.35.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "setup.auth.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.233",
         "172.64.152.23"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4186,20 +5801,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.41.203",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "sevbot.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.203",
         "172.64.146.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4232,20 +5855,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "ip": "104.18.34.32",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "share.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.34.32",
         "172.64.153.224"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4273,20 +5903,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 401,
+          "ip": "104.18.38.33",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "sm.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.38.33",
         "172.64.149.223"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4322,20 +5960,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.35.158",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "sonata.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.158",
         "172.64.152.98"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4363,20 +6009,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 308,
+          "ip": "104.18.41.91",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "sonata.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.91",
         "172.64.146.165"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4412,20 +6066,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.38.74",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "sora.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.38.74",
         "172.64.149.182"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4461,19 +6123,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "spark8s.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4509,20 +6179,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "104.18.0.163",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "spinningup.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.0.163",
         "104.18.1.163"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4558,20 +6236,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.api.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4607,20 +6293,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.42.153",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.console.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.153",
         "172.64.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4656,19 +6350,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.8.130.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.8.130.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4704,19 +6406,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.8.130.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.reader.dagster.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.8.130.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4752,19 +6462,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.8.130.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.reader.spark8s.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.8.130.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4800,19 +6518,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.8.130.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.spark8s.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.8.130.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4848,19 +6574,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.8.130.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "staging.temporal.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.8.130.79"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4896,20 +6630,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "34.196.88.212",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "static-send.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.196.88.212",
         "34.230.178.58"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4937,20 +6679,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.37.160",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "statsigcdn.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.37.160",
         "172.64.150.96"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4978,20 +6728,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.41.60",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "support-monitoring.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.41.60",
         "172.64.146.196"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5027,20 +6785,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 308,
+          "ip": "104.18.33.45",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "tcr9i.chat.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.45",
         "172.64.154.211"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5076,20 +6842,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.33.45",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "tcr9i.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.33.45",
         "172.64.154.211"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5125,19 +6899,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "temporal-kelp.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5173,19 +6955,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "34.36.96.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "temporal.oaistatsig.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.96.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5213,20 +7003,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 521,
+          "ip": "104.18.38.227",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "transceiver.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.38.227",
         "172.64.149.29"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5262,20 +7060,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 200,
+          "ip": "104.18.4.130",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "trust.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.4.130",
         "104.18.5.130"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5311,20 +7117,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 307,
+          "ip": "104.18.6.42",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "ucb-dssj.forum.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.6.42",
         "104.18.7.42"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5333,7 +7147,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "150.171.109.117",
+          "ip": "150.171.109.146",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5360,21 +7174,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "150.171.109.146",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "url3243.email.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.117",
-        "150.171.109.77",
-        "150.171.110.193"
+        "150.171.109.146",
+        "150.171.109.149",
+        "150.171.109.150"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5383,7 +7205,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "150.171.109.118",
+          "ip": "150.171.109.145",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5410,21 +7232,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "150.171.109.145",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "url603.notify.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "150.171.109.118",
-        "150.171.109.77",
-        "150.171.110.194"
+        "150.171.109.145",
+        "150.171.109.147",
+        "150.171.109.149"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5460,20 +7290,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 403,
+          "ip": "104.18.32.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "url7551.codex.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.32.47",
         "172.64.155.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5482,7 +7320,7 @@
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
           "http_status": 404,
-          "ip": "18.165.83.106",
+          "ip": "18.155.173.110",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5509,21 +7347,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "18.155.173.110",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "url9335.recruiting.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
-        "18.165.83.106",
-        "18.165.83.3",
-        "18.165.83.79"
+        "18.155.173.110",
+        "18.155.173.33",
+        "18.155.173.50"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5551,20 +7397,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 400,
+          "ip": "104.18.39.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "videos.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.39.157",
         "172.64.148.99"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5592,20 +7446,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.42.76",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 1,
-      "history_successes": 1,
+      "history_samples": 2,
+      "history_successes": 2,
       "hostname": "webhook-router.api.openai.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.42.76",
         "172.64.145.180"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5641,24 +7503,114 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 404,
+          "ip": "104.18.39.21",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 2,
-      "history_successes": 2,
+      "history_samples": 3,
+      "history_successes": 3,
       "hostname": "ws.chatgpt.com",
-      "last_check": "2026-08-21T11:54:42Z",
+      "last_check": "2026-08-21T17:58:03Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.39.21",
         "172.64.148.235"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-21T11:54:42Z",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "www.devday.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "www.devday.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "3.248.123.157",
+        "52.213.47.89"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
+      "stability_score": 100.0,
+      "status": "alive"
+    },
+    "www.events.openai.com": {
+      "attempts": [
+        {
+          "cipher": "TLS_AES_256_GCM_SHA384",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "port": 443,
+          "status": "HTTPS_OK",
+          "tls_version": "TLSv1.3"
+        }
+      ],
+      "consecutive_failures": 0,
+      "ever_alive": true,
+      "failure_observations": 0,
+      "failure_since": null,
+      "first_seen": "2026-08-21T17:58:03Z",
+      "history": [
+        {
+          "at": "2026-08-21T17:58:03Z",
+          "http_status": 302,
+          "ip": "3.248.123.157",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
+        }
+      ],
+      "history_failures": 0,
+      "history_samples": 1,
+      "history_successes": 1,
+      "hostname": "www.events.openai.com",
+      "last_check": "2026-08-21T17:58:03Z",
+      "last_failure": null,
+      "last_ipv4": [
+        "3.248.123.157",
+        "52.213.47.89"
+      ],
+      "last_result": "ALIVE",
+      "last_success": "2026-08-21T17:58:03Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-08-21T11:54:42Z",
+  "updated_at": "2026-08-21T17:58:03Z",
   "version": 3
 }
