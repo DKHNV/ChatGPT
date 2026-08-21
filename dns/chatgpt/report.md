@@ -1,13 +1,13 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-08-21T17:58:03Z`
+Generated: `2026-08-21T23:50:48Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 144 |
-| Pending | 13 |
+| Active | 160 |
+| Pending | 15 |
 | Suspect | 0 |
 | Quarantine | 0 |
 | Expired | 0 |
@@ -16,7 +16,7 @@ Generated: `2026-08-21T17:58:03Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 143 |
+| Alive | 159 |
 | Unknown | 1 |
 | Suspect | 0 |
 | Dead | 0 |
@@ -25,8 +25,8 @@ Generated: `2026-08-21T17:58:03Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **144**
-Average stability: **99.3%**
+Measured hosts: **160**
+Average stability: **99.4%**
 
 ## Current HTTPS/TLS failures
 
@@ -38,11 +38,11 @@ Average stability: **99.3%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | unknown | `2026-08-21T17:58:03Z` | 1 | TLS_ERROR | 13.65.2.22 | 0.0 | 1 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | unknown | `2026-08-21T17:58:03Z` | 2 | TLS_ERROR | 13.65.2.22 | 0.0 | 2 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-21T17:58:03Z`
+Discovery state updated: `2026-08-21T23:50:48Z`
 
 ## Notes
 
