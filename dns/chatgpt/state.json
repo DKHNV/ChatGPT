@@ -1,5 +1,55 @@
 {
   "hosts": {
+    "academy.openai.com": {
+      "canonical_name": "ingress.gradual.us",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "academy.openai.com",
+      "ipv4": [
+        "104.18.6.42",
+        "104.18.7.42"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "alignment.openai.com": {
       "canonical_name": "c1e2e4e04fd6597a.vercel-dns-013.com",
       "consecutive_negative_checks": 0,
@@ -9,12 +59,16 @@
       "hostname": "alignment.openai.com",
       "ipv4": [
         "64.239.109.1",
-        "64.239.123.1"
+        "64.239.109.65",
+        "64.239.109.193",
+        "64.239.123.1",
+        "64.239.123.65",
+        "64.239.123.193"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -22,16 +76,16 @@
         "1.1.1.1": {
           "canonical_name": "c1e2e4e04fd6597a.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.1",
-            "64.239.123.1"
+            "64.239.109.65",
+            "64.239.123.65"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "c1e2e4e04fd6597a.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.1",
-            "64.239.123.1"
+            "64.239.109.193",
+            "64.239.123.193"
           ],
           "status": "OK"
         },
@@ -61,10 +115,10 @@
         "104.18.32.47",
         "172.64.155.209"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -111,10 +165,10 @@
         "104.18.32.240",
         "172.64.155.16"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -150,6 +204,106 @@
       ],
       "status": "active"
     },
+    "android.chat.openai.com": {
+      "canonical_name": "android.chat.openai.com.cdn.cloudflare.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "android.chat.openai.com",
+      "ipv4": [
+        "104.18.32.42",
+        "172.64.155.214"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "android.chat.openai.com.cdn.cloudflare.net",
+          "ipv4": [
+            "104.18.32.42",
+            "172.64.155.214"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "android.chat.openai.com.cdn.cloudflare.net",
+          "ipv4": [
+            "104.18.32.42",
+            "172.64.155.214"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "android.chat.openai.com.cdn.cloudflare.net",
+          "ipv4": [
+            "104.18.32.42",
+            "172.64.155.214"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "api.ads.openai.com": {
+      "canonical_name": "api.ads.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "api.ads.openai.com",
+      "ipv4": [
+        "104.18.33.190",
+        "172.64.154.66"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "api.ads.openai.com",
+          "ipv4": [
+            "104.18.33.190",
+            "172.64.154.66"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "api.ads.openai.com",
+          "ipv4": [
+            "104.18.33.190",
+            "172.64.154.66"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "api.ads.openai.com",
+          "ipv4": [
+            "104.18.33.190",
+            "172.64.154.66"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "api.chatgpt.com": {
       "canonical_name": "api.chatgpt.com",
       "consecutive_negative_checks": 0,
@@ -161,10 +315,10 @@
         "104.18.36.29",
         "172.64.151.227"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -211,10 +365,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -260,10 +414,10 @@
       "ipv4": [
         "107.178.243.93"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -296,6 +450,42 @@
       ],
       "status": "active"
     },
+    "at.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "at.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:54:42Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
     "auth.enterpriseservices.openai.com": {
       "canonical_name": "auth.enterpriseservices.openai.com",
       "consecutive_negative_checks": 0,
@@ -304,15 +494,15 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "auth.enterpriseservices.openai.com",
       "ipv4": [
-        "13.35.78.40",
-        "13.35.78.43",
-        "13.35.78.45",
-        "13.35.78.95"
+        "3.171.100.2",
+        "3.171.100.39",
+        "3.171.100.48",
+        "3.171.100.69"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -320,30 +510,30 @@
         "1.1.1.1": {
           "canonical_name": "auth.enterpriseservices.openai.com",
           "ipv4": [
-            "13.35.78.40",
-            "13.35.78.43",
-            "13.35.78.45",
-            "13.35.78.95"
+            "3.171.100.2",
+            "3.171.100.39",
+            "3.171.100.48",
+            "3.171.100.69"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "auth.enterpriseservices.openai.com",
           "ipv4": [
-            "13.35.78.40",
-            "13.35.78.43",
-            "13.35.78.45",
-            "13.35.78.95"
+            "3.171.100.2",
+            "3.171.100.39",
+            "3.171.100.48",
+            "3.171.100.69"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "auth.enterpriseservices.openai.com",
           "ipv4": [
-            "13.35.78.40",
-            "13.35.78.43",
-            "13.35.78.45",
-            "13.35.78.95"
+            "3.171.100.2",
+            "3.171.100.39",
+            "3.171.100.48",
+            "3.171.100.69"
           ],
           "status": "OK"
         }
@@ -365,10 +555,10 @@
         "104.18.41.241",
         "172.64.146.15"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -405,6 +595,106 @@
       ],
       "status": "active"
     },
+    "aw.api.openai.com": {
+      "canonical_name": "aw.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "aw.api.openai.com",
+      "ipv4": [
+        "104.18.33.210",
+        "172.64.154.46"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "aw.api.openai.com",
+          "ipv4": [
+            "104.18.33.210",
+            "172.64.154.46"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "aw.api.openai.com",
+          "ipv4": [
+            "104.18.33.210",
+            "172.64.154.46"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "aw.api.openai.com",
+          "ipv4": [
+            "104.18.33.210",
+            "172.64.154.46"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "blueberry.fde.openai.com": {
+      "canonical_name": "blueberry.fde.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "blueberry.fde.openai.com",
+      "ipv4": [
+        "104.18.33.113",
+        "172.64.154.143"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "blueberry.fde.openai.com",
+          "ipv4": [
+            "104.18.33.113",
+            "172.64.154.143"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "blueberry.fde.openai.com",
+          "ipv4": [
+            "104.18.33.113",
+            "172.64.154.143"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "blueberry.fde.openai.com",
+          "ipv4": [
+            "104.18.33.113",
+            "172.64.154.143"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "brand-partners.openai.com": {
       "canonical_name": "c-ca18c7392c09aa0e9669c68fd3595acc.frontify.com",
       "consecutive_negative_checks": 0,
@@ -416,10 +706,10 @@
         "52.72.207.165",
         "54.173.235.236"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -466,10 +756,10 @@
         "34.234.29.212",
         "100.56.135.130"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -516,10 +806,10 @@
         "104.18.36.216",
         "172.64.151.40"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -565,10 +855,10 @@
       "ipv4": [
         "34.120.180.228"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -609,14 +899,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "cdn.openai.com",
       "ipv4": [
+        "150.171.109.66",
         "150.171.109.71",
-        "150.171.109.77",
-        "150.171.110.194"
+        "150.171.109.73"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -624,21 +914,21 @@
         "1.1.1.1": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.77"
+            "150.171.109.73"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.71"
+            "150.171.109.66"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.110.194"
+            "150.171.109.71"
           ],
           "status": "OK"
         }
@@ -660,10 +950,10 @@
         "104.18.2.136",
         "104.18.3.136"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -707,14 +997,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "cdn.staging.openai.com",
       "ipv4": [
-        "150.171.109.65",
-        "150.171.109.77",
-        "150.171.110.193"
+        "150.171.109.66",
+        "150.171.109.71",
+        "150.171.109.73"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -722,21 +1012,21 @@
         "1.1.1.1": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.77"
+            "150.171.109.71"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.65"
+            "150.171.109.66"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.110.193"
+            "150.171.109.73"
           ],
           "status": "OK"
         }
@@ -758,10 +1048,10 @@
         "104.18.32.47",
         "172.64.155.209"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -798,6 +1088,56 @@
       ],
       "status": "active"
     },
+    "coconut.fde.openai.com": {
+      "canonical_name": "coconut.fde.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "coconut.fde.openai.com",
+      "ipv4": [
+        "104.18.34.75",
+        "172.64.153.181"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "coconut.fde.openai.com",
+          "ipv4": [
+            "104.18.34.75",
+            "172.64.153.181"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "coconut.fde.openai.com",
+          "ipv4": [
+            "104.18.34.75",
+            "172.64.153.181"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "coconut.fde.openai.com",
+          "ipv4": [
+            "104.18.34.75",
+            "172.64.153.181"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "community.openai.com": {
       "canonical_name": "openai1.hosted-by-discourse.com",
       "consecutive_negative_checks": 0,
@@ -808,10 +1148,10 @@
       "ipv4": [
         "184.105.99.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -855,10 +1195,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -894,6 +1234,56 @@
       ],
       "status": "active"
     },
+    "creatoreducation.openai.com": {
+      "canonical_name": "ingress.gradual.us",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "creatoreducation.openai.com",
+      "ipv4": [
+        "104.18.6.42",
+        "104.18.7.42"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "creators.openai.com": {
       "canonical_name": "customdomain.prod.swoogo.net",
       "consecutive_negative_checks": 0,
@@ -905,10 +1295,10 @@
         "3.248.123.157",
         "52.213.47.89"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -954,10 +1344,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1000,10 +1390,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1038,18 +1428,18 @@
     },
     "edge.chatgpt.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "edge.chatgpt.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1086,10 +1476,10 @@
         "104.17.73.206",
         "104.17.74.206"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1124,6 +1514,56 @@
             "104.17.72.206",
             "104.17.73.206",
             "104.17.74.206"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "emerging-talent.forum.openai.com": {
+      "canonical_name": "ingress.gradual.us",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "emerging-talent.forum.openai.com",
+      "ipv4": [
+        "104.18.6.42",
+        "104.18.7.42"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ingress.gradual.us",
+          "ipv4": [
+            "104.18.6.42",
+            "104.18.7.42"
           ],
           "status": "OK"
         }
@@ -1147,10 +1587,10 @@
         "18.160.46.47",
         "18.160.46.71"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1192,6 +1632,114 @@
       ],
       "status": "active"
     },
+    "evals.openai.com": {
+      "canonical_name": "evals.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "evals.openai.com",
+      "ipv4": [
+        "104.18.38.167",
+        "172.64.149.89"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "evals.openai.com",
+          "ipv4": [
+            "104.18.38.167",
+            "172.64.149.89"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "evals.openai.com",
+          "ipv4": [
+            "104.18.38.167",
+            "172.64.149.89"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "evals.openai.com",
+          "ipv4": [
+            "104.18.38.167",
+            "172.64.149.89"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "event.openai.com": {
+      "canonical_name": "event.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "event.openai.com",
+      "ipv4": [
+        "151.101.2.133",
+        "151.101.66.133",
+        "151.101.130.133",
+        "151.101.194.133"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "event.openai.com",
+          "ipv4": [
+            "151.101.2.133",
+            "151.101.66.133",
+            "151.101.130.133",
+            "151.101.194.133"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "event.openai.com",
+          "ipv4": [
+            "151.101.2.133",
+            "151.101.66.133",
+            "151.101.130.133",
+            "151.101.194.133"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "event.openai.com",
+          "ipv4": [
+            "151.101.2.133",
+            "151.101.66.133",
+            "151.101.130.133",
+            "151.101.194.133"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "external.auth.openai.com": {
       "canonical_name": "cname.workos-dns.com",
       "consecutive_negative_checks": 0,
@@ -1203,10 +1751,10 @@
         "104.18.35.233",
         "172.64.152.23"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1232,6 +1780,92 @@
           "ipv4": [
             "104.18.35.233",
             "172.64.152.23"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "fde.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "fde.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:54:42Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
+    "files.openai.com": {
+      "canonical_name": "files.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "files.openai.com",
+      "ipv4": [
+        "104.18.32.87",
+        "172.64.155.169"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "files.openai.com",
+          "ipv4": [
+            "104.18.32.87",
+            "172.64.155.169"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "files.openai.com",
+          "ipv4": [
+            "104.18.32.87",
+            "172.64.155.169"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "files.openai.com",
+          "ipv4": [
+            "104.18.32.87",
+            "172.64.155.169"
           ],
           "status": "OK"
         }
@@ -1256,10 +1890,10 @@
         "104.16.95.80",
         "104.16.96.80"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1315,10 +1949,10 @@
         "104.18.37.213",
         "172.64.150.43"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1354,6 +1988,56 @@
       ],
       "status": "active"
     },
+    "gov.api.openai.com": {
+      "canonical_name": "gov.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "gov.api.openai.com",
+      "ipv4": [
+        "104.18.32.214",
+        "172.64.155.42"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "gov.api.openai.com",
+          "ipv4": [
+            "104.18.32.214",
+            "172.64.155.42"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "gov.api.openai.com",
+          "ipv4": [
+            "104.18.32.214",
+            "172.64.155.42"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "gov.api.openai.com",
+          "ipv4": [
+            "104.18.32.214",
+            "172.64.155.42"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "grants.openai.com": {
       "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
       "consecutive_negative_checks": 0,
@@ -1362,13 +2046,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "grants.openai.com",
       "ipv4": [
-        "150.171.109.72",
-        "150.171.109.77"
+        "150.171.109.73",
+        "150.171.109.74",
+        "150.171.109.113"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1376,21 +2061,21 @@
         "1.1.1.1": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.77"
+            "150.171.109.74"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.77"
+            "150.171.109.113"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.72"
+            "150.171.109.73"
           ],
           "status": "OK"
         }
@@ -1412,10 +2097,10 @@
         "104.18.43.67",
         "172.64.144.189"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1459,15 +2144,15 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "guardrails.openai.com",
       "ipv4": [
-        "64.239.109.65",
+        "64.239.109.1",
         "64.239.109.193",
-        "64.239.123.65",
+        "64.239.123.1",
         "64.239.123.193"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1491,8 +2176,8 @@
         "9.9.9.9": {
           "canonical_name": "b1c9f73b08d9cbdc.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.65",
-            "64.239.123.65"
+            "64.239.109.1",
+            "64.239.123.1"
           ],
           "status": "OK"
         }
@@ -1514,10 +2199,10 @@
         "104.18.34.195",
         "172.64.153.61"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1564,10 +2249,10 @@
         "104.18.35.200",
         "172.64.152.56"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1614,10 +2299,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1661,14 +2346,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "jukebox.openai.com",
       "ipv4": [
-        "150.171.109.65",
-        "150.171.109.74",
-        "150.171.109.77"
+        "150.171.109.66",
+        "150.171.109.71",
+        "150.171.109.72"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1676,21 +2361,21 @@
         "1.1.1.1": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.77"
+            "150.171.109.72"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.65"
+            "150.171.109.66"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.74"
+            "150.171.109.71"
           ],
           "status": "OK"
         }
@@ -1712,10 +2397,10 @@
         "104.18.40.123",
         "172.64.147.133"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1764,10 +2449,10 @@
         "185.199.110.153",
         "185.199.111.153"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1820,10 +2505,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1870,10 +2555,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1919,10 +2604,10 @@
       "ipv4": [
         "34.54.22.246"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1965,10 +2650,10 @@
       "ipv4": [
         "34.54.22.246"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2011,10 +2696,10 @@
       "ipv4": [
         "34.54.22.246"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2057,10 +2742,10 @@
       "ipv4": [
         "34.54.22.246"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2095,18 +2780,18 @@
     },
     "latest.temporal-kelp.oaistatsig.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "latest.temporal-kelp.oaistatsig.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2139,10 +2824,10 @@
       "ipv4": [
         "34.54.22.246"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2183,13 +2868,15 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "learn.chatgpt.com",
       "ipv4": [
-        "64.239.109.193",
-        "64.239.123.193"
+        "64.239.109.1",
+        "64.239.109.65",
+        "64.239.123.1",
+        "64.239.123.65"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2197,24 +2884,24 @@
         "1.1.1.1": {
           "canonical_name": "08d9e9b18d2ea32e.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.193",
-            "64.239.123.193"
+            "64.239.109.65",
+            "64.239.123.65"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "08d9e9b18d2ea32e.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.193",
-            "64.239.123.193"
+            "64.239.109.1",
+            "64.239.123.1"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "08d9e9b18d2ea32e.vercel-dns-013.com",
           "ipv4": [
-            "64.239.109.193",
-            "64.239.123.193"
+            "64.239.109.1",
+            "64.239.123.1"
           ],
           "status": "OK"
         }
@@ -2222,6 +2909,110 @@
       "safety_reason": null,
       "sources": [
         "openai-chatgpt:chatgpt.com"
+      ],
+      "status": "active"
+    },
+    "links.openai.com": {
+      "canonical_name": "app2c.gateway.portal.outreach.io",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "links.openai.com",
+      "ipv4": [
+        "23.21.235.96",
+        "52.72.136.161",
+        "100.29.224.226"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "app2c.gateway.portal.outreach.io",
+          "ipv4": [
+            "23.21.235.96",
+            "52.72.136.161",
+            "100.29.224.226"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "app2c.gateway.portal.outreach.io",
+          "ipv4": [
+            "23.21.235.96",
+            "52.72.136.161",
+            "100.29.224.226"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "app2c.gateway.portal.outreach.io",
+          "ipv4": [
+            "23.21.235.96",
+            "52.72.136.161",
+            "100.29.224.226"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "mango.fde.openai.com": {
+      "canonical_name": "mango.fde.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "mango.fde.openai.com",
+      "ipv4": [
+        "104.18.42.82",
+        "172.64.145.174"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "mango.fde.openai.com",
+          "ipv4": [
+            "104.18.42.82",
+            "172.64.145.174"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "mango.fde.openai.com",
+          "ipv4": [
+            "104.18.42.82",
+            "172.64.145.174"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "mango.fde.openai.com",
+          "ipv4": [
+            "104.18.42.82",
+            "172.64.145.174"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
       ],
       "status": "active"
     },
@@ -2236,10 +3027,10 @@
         "104.18.6.42",
         "104.18.7.42"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2275,21 +3066,107 @@
       ],
       "status": "active"
     },
+    "merchant.openai.com": {
+      "canonical_name": "merchant.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "merchant.openai.com",
+      "ipv4": [
+        "104.18.40.135",
+        "172.64.147.121"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "merchant.openai.com",
+          "ipv4": [
+            "104.18.40.135",
+            "172.64.147.121"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "merchant.openai.com",
+          "ipv4": [
+            "104.18.40.135",
+            "172.64.147.121"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "merchant.openai.com",
+          "ipv4": [
+            "104.18.40.135",
+            "172.64.147.121"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "microscope-azure-edge.openai.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "microscope-azure-edge.openai.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 2,
+      "negative_since": "2026-08-21T07:57:06Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
+    "microscope-azure.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "microscope-azure.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
       "negative_observations": 1,
-      "negative_since": "2026-08-21T07:57:06Z",
+      "negative_since": "2026-08-21T11:54:42Z",
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
@@ -2313,18 +3190,18 @@
     },
     "microscope.openai.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "microscope.openai.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2360,10 +3237,10 @@
         "185.199.110.153",
         "185.199.111.153"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2405,6 +3282,56 @@
       ],
       "status": "active"
     },
+    "nori-webhooks.api.openai.com": {
+      "canonical_name": "nori-webhooks.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "nori-webhooks.api.openai.com",
+      "ipv4": [
+        "104.18.37.188",
+        "172.64.150.68"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "nori-webhooks.api.openai.com",
+          "ipv4": [
+            "104.18.37.188",
+            "172.64.150.68"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "nori-webhooks.api.openai.com",
+          "ipv4": [
+            "104.18.37.188",
+            "172.64.150.68"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "nori-webhooks.api.openai.com",
+          "ipv4": [
+            "104.18.37.188",
+            "172.64.150.68"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "oai-gke-asia-southeast1.api.oaistatsig.com": {
       "canonical_name": "oai-gke-asia-southeast1.api.oaistatsig.com",
       "consecutive_negative_checks": 0,
@@ -2416,10 +3343,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2466,10 +3393,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2516,10 +3443,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2565,10 +3492,10 @@
       "ipv4": [
         "34.36.104.93"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2612,10 +3539,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2662,10 +3589,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2712,10 +3639,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2762,10 +3689,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2812,10 +3739,10 @@
         "104.18.41.158",
         "172.64.146.98"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2863,10 +3790,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2905,18 +3832,18 @@
     },
     "oaiusercontent.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "oaiusercontent.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2950,10 +3877,10 @@
         "104.18.32.47",
         "172.64.155.209"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3000,10 +3927,10 @@
         "104.18.6.42",
         "104.18.7.42"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3050,10 +3977,10 @@
         "104.18.33.45",
         "172.64.154.211"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3101,10 +4028,10 @@
         "104.18.37.215",
         "172.64.150.41"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3140,20 +4067,70 @@
       ],
       "status": "active"
     },
+    "papaya.fde.openai.com": {
+      "canonical_name": "papaya.fde.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "papaya.fde.openai.com",
+      "ipv4": [
+        "104.18.36.53",
+        "172.64.151.203"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "papaya.fde.openai.com",
+          "ipv4": [
+            "104.18.36.53",
+            "172.64.151.203"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "papaya.fde.openai.com",
+          "ipv4": [
+            "104.18.36.53",
+            "172.64.151.203"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "papaya.fde.openai.com",
+          "ipv4": [
+            "104.18.36.53",
+            "172.64.151.203"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "preview.prism.openai.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "preview.prism.openai.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3187,10 +4164,10 @@
         "104.18.41.9",
         "172.64.146.247"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3237,10 +4214,10 @@
         "104.18.35.127",
         "172.64.152.129"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3287,10 +4264,10 @@
         "104.18.41.104",
         "172.64.146.152"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3326,6 +4303,132 @@
       ],
       "status": "active"
     },
+    "private.api.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "private.api.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:54:42Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
+    "production.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "production.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:54:42Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
+    "progress.openai.com": {
+      "canonical_name": "f91baba8e5812d04.vercel-dns-013.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "progress.openai.com",
+      "ipv4": [
+        "64.239.109.1",
+        "64.239.109.65",
+        "64.239.109.129",
+        "64.239.123.1",
+        "64.239.123.65",
+        "64.239.123.129"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "f91baba8e5812d04.vercel-dns-013.com",
+          "ipv4": [
+            "64.239.109.1",
+            "64.239.123.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "f91baba8e5812d04.vercel-dns-013.com",
+          "ipv4": [
+            "64.239.109.65",
+            "64.239.123.65"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "f91baba8e5812d04.vercel-dns-013.com",
+          "ipv4": [
+            "64.239.109.129",
+            "64.239.123.129"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "reader.dagster-statscript.oaistatsig.com": {
       "canonical_name": "reader.dagster-statscript.oaistatsig.com",
       "consecutive_negative_checks": 0,
@@ -3336,10 +4439,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3382,10 +4485,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3428,10 +4531,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3475,10 +4578,10 @@
         "104.18.36.169",
         "172.64.151.87"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3525,10 +4628,10 @@
         "104.18.37.248",
         "172.64.150.8"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3575,10 +4678,10 @@
         "104.18.35.165",
         "172.64.152.91"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3625,10 +4728,10 @@
         "34.196.88.212",
         "34.230.178.58"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3654,6 +4757,106 @@
           "ipv4": [
             "34.196.88.212",
             "34.230.178.58"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "setup.auth.openai.com": {
+      "canonical_name": "cname.workos-dns.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "setup.auth.openai.com",
+      "ipv4": [
+        "104.18.35.233",
+        "172.64.152.23"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "sevbot.api.openai.com": {
+      "canonical_name": "sevbot.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "sevbot.api.openai.com",
+      "ipv4": [
+        "104.18.41.203",
+        "172.64.146.53"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "sevbot.api.openai.com",
+          "ipv4": [
+            "104.18.41.203",
+            "172.64.146.53"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "sevbot.api.openai.com",
+          "ipv4": [
+            "104.18.41.203",
+            "172.64.146.53"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "sevbot.api.openai.com",
+          "ipv4": [
+            "104.18.41.203",
+            "172.64.146.53"
           ],
           "status": "OK"
         }
@@ -3675,10 +4878,10 @@
         "104.18.34.32",
         "172.64.153.224"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3704,6 +4907,56 @@
           "ipv4": [
             "104.18.34.32",
             "172.64.153.224"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "sm.openai.com": {
+      "canonical_name": "sm.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "sm.openai.com",
+      "ipv4": [
+        "104.18.38.33",
+        "172.64.149.223"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "sm.openai.com",
+          "ipv4": [
+            "104.18.38.33",
+            "172.64.149.223"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "sm.openai.com",
+          "ipv4": [
+            "104.18.38.33",
+            "172.64.149.223"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "sm.openai.com",
+          "ipv4": [
+            "104.18.38.33",
+            "172.64.149.223"
           ],
           "status": "OK"
         }
@@ -3725,10 +4978,10 @@
         "104.18.35.158",
         "172.64.152.98"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3764,6 +5017,56 @@
       ],
       "status": "active"
     },
+    "sonata.openai.com": {
+      "canonical_name": "sonata.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "sonata.openai.com",
+      "ipv4": [
+        "104.18.41.91",
+        "172.64.146.165"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "sonata.openai.com",
+          "ipv4": [
+            "104.18.41.91",
+            "172.64.146.165"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "sonata.openai.com",
+          "ipv4": [
+            "104.18.41.91",
+            "172.64.146.165"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "sonata.openai.com",
+          "ipv4": [
+            "104.18.41.91",
+            "172.64.146.165"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "sora.chatgpt.com": {
       "canonical_name": "sora.chatgpt.com",
       "consecutive_negative_checks": 0,
@@ -3775,10 +5078,10 @@
         "104.18.38.74",
         "172.64.149.182"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3824,10 +5127,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3871,10 +5174,10 @@
         "104.18.0.163",
         "104.18.1.163"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3921,10 +5224,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3971,10 +5274,10 @@
         "104.18.42.153",
         "172.64.145.103"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4020,10 +5323,10 @@
       "ipv4": [
         "34.8.130.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4056,6 +5359,42 @@
       ],
       "status": "active"
     },
+    "staging.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "staging.openai.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T11:54:42Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "pending"
+    },
     "staging.reader.dagster.oaistatsig.com": {
       "canonical_name": "staging.reader.dagster.oaistatsig.com",
       "consecutive_negative_checks": 0,
@@ -4066,10 +5405,10 @@
       "ipv4": [
         "34.8.130.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4112,10 +5451,10 @@
       "ipv4": [
         "34.8.130.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4158,10 +5497,10 @@
       "ipv4": [
         "34.8.130.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4196,18 +5535,18 @@
     },
     "staging.temporal-kelp.oaistatsig.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "staging.temporal-kelp.oaistatsig.com",
       "ipv4": [],
-      "last_check": "2026-08-21T07:57:06Z",
-      "last_failure": "2026-08-21T07:57:06Z",
-      "last_negative": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_failure": "2026-08-21T11:54:42Z",
+      "last_negative": "2026-08-21T11:54:42Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-21T07:57:06Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -4240,10 +5579,10 @@
       "ipv4": [
         "34.8.130.79"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4287,10 +5626,10 @@
         "34.196.88.212",
         "34.230.178.58"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4326,6 +5665,106 @@
       ],
       "status": "active"
     },
+    "statsigcdn.openai.com": {
+      "canonical_name": "statsigcdn.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "statsigcdn.openai.com",
+      "ipv4": [
+        "104.18.37.160",
+        "172.64.150.96"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "statsigcdn.openai.com",
+          "ipv4": [
+            "104.18.37.160",
+            "172.64.150.96"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "statsigcdn.openai.com",
+          "ipv4": [
+            "104.18.37.160",
+            "172.64.150.96"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "statsigcdn.openai.com",
+          "ipv4": [
+            "104.18.37.160",
+            "172.64.150.96"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "support-monitoring.api.openai.com": {
+      "canonical_name": "support-monitoring.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "support-monitoring.api.openai.com",
+      "ipv4": [
+        "104.18.41.60",
+        "172.64.146.196"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "support-monitoring.api.openai.com",
+          "ipv4": [
+            "104.18.41.60",
+            "172.64.146.196"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "support-monitoring.api.openai.com",
+          "ipv4": [
+            "104.18.41.60",
+            "172.64.146.196"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "support-monitoring.api.openai.com",
+          "ipv4": [
+            "104.18.41.60",
+            "172.64.146.196"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "tcr9i.chat.openai.com": {
       "canonical_name": "openai.com",
       "consecutive_negative_checks": 0,
@@ -4337,10 +5776,10 @@
         "104.18.33.45",
         "172.64.154.211"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4387,10 +5826,10 @@
         "104.18.33.45",
         "172.64.154.211"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4436,10 +5875,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4482,10 +5921,10 @@
       "ipv4": [
         "34.36.96.53"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4518,6 +5957,56 @@
       ],
       "status": "active"
     },
+    "transceiver.api.openai.com": {
+      "canonical_name": "transceiver.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "transceiver.api.openai.com",
+      "ipv4": [
+        "104.18.38.227",
+        "172.64.149.29"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "transceiver.api.openai.com",
+          "ipv4": [
+            "104.18.38.227",
+            "172.64.149.29"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "transceiver.api.openai.com",
+          "ipv4": [
+            "104.18.38.227",
+            "172.64.149.29"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "transceiver.api.openai.com",
+          "ipv4": [
+            "104.18.38.227",
+            "172.64.149.29"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "trust.openai.com": {
       "canonical_name": "openai.portals.safebase.io",
       "consecutive_negative_checks": 0,
@@ -4529,10 +6018,10 @@
         "104.18.4.130",
         "104.18.5.130"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4579,10 +6068,10 @@
         "104.18.6.42",
         "104.18.7.42"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4626,14 +6115,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "url3243.email.openai.com",
       "ipv4": [
-        "150.171.109.72",
-        "150.171.109.74",
-        "150.171.110.194"
+        "150.171.109.77",
+        "150.171.109.117",
+        "150.171.110.193"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4641,21 +6130,21 @@
         "1.1.1.1": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.74"
+            "150.171.110.193"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.72"
+            "150.171.109.117"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.110.194"
+            "150.171.109.77"
           ],
           "status": "OK"
         }
@@ -4674,14 +6163,14 @@
       "first_seen": "2026-08-21T07:57:06Z",
       "hostname": "url603.notify.openai.com",
       "ipv4": [
-        "150.171.109.74",
         "150.171.109.77",
+        "150.171.109.118",
         "150.171.110.194"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4696,14 +6185,14 @@
         "8.8.8.8": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.110.194"
+            "150.171.109.118"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "mr-afd-azuredge.tm-azurefd.net",
           "ipv4": [
-            "150.171.109.74"
+            "150.171.110.194"
           ],
           "status": "OK"
         }
@@ -4725,10 +6214,10 @@
         "104.18.32.47",
         "172.64.155.209"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4777,10 +6266,10 @@
         "18.165.83.83",
         "18.165.83.106"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4822,6 +6311,106 @@
       ],
       "status": "active"
     },
+    "videos.openai.com": {
+      "canonical_name": "videos.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "videos.openai.com",
+      "ipv4": [
+        "104.18.39.157",
+        "172.64.148.99"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "videos.openai.com",
+          "ipv4": [
+            "104.18.39.157",
+            "172.64.148.99"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "videos.openai.com",
+          "ipv4": [
+            "104.18.39.157",
+            "172.64.148.99"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "videos.openai.com",
+          "ipv4": [
+            "104.18.39.157",
+            "172.64.148.99"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
+    "webhook-router.api.openai.com": {
+      "canonical_name": "webhook-router.api.openai.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T11:54:42Z",
+      "hostname": "webhook-router.api.openai.com",
+      "ipv4": [
+        "104.18.42.76",
+        "172.64.145.180"
+      ],
+      "last_check": "2026-08-21T11:54:42Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T11:54:42Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "webhook-router.api.openai.com",
+          "ipv4": [
+            "104.18.42.76",
+            "172.64.145.180"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "webhook-router.api.openai.com",
+          "ipv4": [
+            "104.18.42.76",
+            "172.64.145.180"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "webhook-router.api.openai.com",
+          "ipv4": [
+            "104.18.42.76",
+            "172.64.145.180"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "openai-chatgpt:openai.com"
+      ],
+      "status": "active"
+    },
     "ws.chatgpt.com": {
       "canonical_name": "ws.chatgpt.com",
       "consecutive_negative_checks": 0,
@@ -4833,10 +6422,10 @@
         "104.18.39.21",
         "172.64.148.235"
       ],
-      "last_check": "2026-08-21T07:57:06Z",
+      "last_check": "2026-08-21T11:54:42Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-21T07:57:06Z",
+      "last_success": "2026-08-21T11:54:42Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4873,6 +6462,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-08-21T07:57:06Z",
+  "updated_at": "2026-08-21T11:54:42Z",
   "version": 2
 }
