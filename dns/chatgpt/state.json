@@ -1,0 +1,160 @@
+{
+  "hosts": {
+    "auth.openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "auth.openai.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "cdn.openaimerge.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "cdn.openaimerge.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "chatgpt.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "chatgpt.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "oaistatic.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "oaistatic.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "oaistatsig.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "oaistatsig.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "oaiusercontent.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "oaiusercontent.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "openai.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "openai.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    }
+  },
+  "updated_at": null,
+  "version": 2
+}
