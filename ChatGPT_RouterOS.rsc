@@ -1,24 +1,31 @@
-#Created by DKHNV
-#Gen6 21.08.2026
-
 /ip firewall address-list
 
 add list=chatgpt address=3.174.18.0/24 comment=chatgpt
 add list=chatgpt address=3.248.123.0/24 comment=chatgpt
+add list=chatgpt address=13.65.2.0/24 comment=chatgpt
 add list=chatgpt address=18.173.5.0/24 comment=chatgpt
+add list=chatgpt address=20.119.16.0/24 comment=chatgpt
+add list=chatgpt address=20.245.73.0/24 comment=chatgpt
+add list=chatgpt address=23.21.235.0/24 comment=chatgpt
+add list=chatgpt address=23.227.38.0/24 comment=chatgpt
 add list=chatgpt address=34.8.130.0/24 comment=chatgpt
 add list=chatgpt address=34.36.96.0/24 comment=chatgpt
 add list=chatgpt address=34.36.104.0/24 comment=chatgpt
+add list=chatgpt address=34.36.214.0/24 comment=chatgpt
 add list=chatgpt address=34.54.22.0/24 comment=chatgpt
 add list=chatgpt address=34.120.180.0/24 comment=chatgpt
 add list=chatgpt address=34.196.88.0/24 comment=chatgpt
-add list=chatgpt address=34.230.178.0/24 comment=chatgpt
-add list=chatgpt address=34.234.29.0/24 comment=chatgpt
+add list=chatgpt address=34.236.86.0/24 comment=chatgpt
+add list=chatgpt address=52.72.136.0/24 comment=chatgpt
 add list=chatgpt address=52.72.207.0/24 comment=chatgpt
 add list=chatgpt address=52.213.47.0/24 comment=chatgpt
+add list=chatgpt address=54.91.101.0/24 comment=chatgpt
 add list=chatgpt address=54.173.235.0/24 comment=chatgpt
 add list=chatgpt address=64.239.109.0/24 comment=chatgpt
 add list=chatgpt address=64.239.123.0/24 comment=chatgpt
+add list=chatgpt address=66.33.60.0/24 comment=chatgpt
+add list=chatgpt address=76.76.21.0/24 comment=chatgpt
+add list=chatgpt address=100.29.224.0/24 comment=chatgpt
 add list=chatgpt address=100.56.135.0/24 comment=chatgpt
 add list=chatgpt address=104.16.92.0/24 comment=chatgpt
 add list=chatgpt address=104.16.93.0/24 comment=chatgpt
@@ -50,8 +57,17 @@ add list=chatgpt address=104.18.40.0/24 comment=chatgpt
 add list=chatgpt address=104.18.41.0/24 comment=chatgpt
 add list=chatgpt address=104.18.42.0/24 comment=chatgpt
 add list=chatgpt address=104.18.43.0/24 comment=chatgpt
+add list=chatgpt address=104.21.49.0/24 comment=chatgpt
+add list=chatgpt address=104.21.69.0/24 comment=chatgpt
+add list=chatgpt address=104.21.83.0/24 comment=chatgpt
+add list=chatgpt address=104.21.92.0/24 comment=chatgpt
 add list=chatgpt address=107.178.243.0/24 comment=chatgpt
 add list=chatgpt address=150.171.109.0/24 comment=chatgpt
+add list=chatgpt address=151.101.2.0/24 comment=chatgpt
+add list=chatgpt address=151.101.66.0/24 comment=chatgpt
+add list=chatgpt address=151.101.130.0/24 comment=chatgpt
+add list=chatgpt address=151.101.194.0/24 comment=chatgpt
+add list=chatgpt address=162.159.140.0/24 comment=chatgpt
 add list=chatgpt address=172.64.144.0/24 comment=chatgpt
 add list=chatgpt address=172.64.145.0/24 comment=chatgpt
 add list=chatgpt address=172.64.146.0/24 comment=chatgpt
@@ -64,6 +80,12 @@ add list=chatgpt address=172.64.152.0/24 comment=chatgpt
 add list=chatgpt address=172.64.153.0/24 comment=chatgpt
 add list=chatgpt address=172.64.154.0/24 comment=chatgpt
 add list=chatgpt address=172.64.155.0/24 comment=chatgpt
+add list=chatgpt address=172.65.90.0/24 comment=chatgpt
+add list=chatgpt address=172.66.0.0/24 comment=chatgpt
+add list=chatgpt address=172.67.185.0/24 comment=chatgpt
+add list=chatgpt address=172.67.189.0/24 comment=chatgpt
+add list=chatgpt address=172.67.213.0/24 comment=chatgpt
+add list=chatgpt address=172.67.221.0/24 comment=chatgpt
 add list=chatgpt address=184.105.99.0/24 comment=chatgpt
 add list=chatgpt address=185.199.108.0/24 comment=chatgpt
 add list=chatgpt address=185.199.109.0/24 comment=chatgpt
