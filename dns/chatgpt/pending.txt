@@ -1,4 +1,5 @@
 at.openai.com
+eastus2.privatelink.api.openai.com
 edge.chatgpt.com
 fde.openai.com
 latest.temporal-kelp.oaistatsig.com
@@ -13,3 +14,4 @@ southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
 staging.openai.com
 staging.temporal-kelp.oaistatsig.com
+westus.privatelink.api.openai.com

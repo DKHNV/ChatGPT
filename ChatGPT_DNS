@@ -14,6 +14,7 @@ api.openai.com
 argocd.oaistatsig.com
 art-design.forum.openai.com
 artifacts.juno.openai.com
+assets.images.openai.com
 auth.enterpriseservices.openai.com
 auth.openai.com
 auth0-dev.openai.com
@@ -77,6 +78,8 @@ guava.fde.openai.com
 hooks-staging.chatgpt.com
 images.openai.com
 intern.oaistatsig.com
+ios.chat.openai.com
+it-agent-ingress.api.openai.com
 jukebox.openai.com
 juno.openai.com
 ka3d0s888non270n82k.openai.com
@@ -108,6 +111,7 @@ oai-gke-us-east5.api.oaistatsig.com
 oai-gke-us-west1.api.oaistatsig.com
 oaistatic.com
 oaistatsig.com
+observability-webhook.api.openai.com
 ogimg.chatgpt.com
 openai-projects.forum.openai.com
 openai-team.forum.openai.com
