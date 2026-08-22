@@ -34,6 +34,7 @@ add list=chatgpt address=104.17.72.0/23 comment=chatgpt
 add list=chatgpt address=104.17.74.0/24 comment=chatgpt
 add list=chatgpt address=104.18.0.0/22 comment=chatgpt
 add list=chatgpt address=104.18.4.0/22 comment=chatgpt
+add list=chatgpt address=104.18.18.0/23 comment=chatgpt
 add list=chatgpt address=104.18.32.0/22 comment=chatgpt
 add list=chatgpt address=104.18.36.0/22 comment=chatgpt
 add list=chatgpt address=104.18.40.0/22 comment=chatgpt
