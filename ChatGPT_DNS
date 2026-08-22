@@ -1,4 +1,5 @@
 academy.openai.com
+account.supply.openai.com
 ads.openai.com
 agentgarden.api.openai.com
 alignment.openai.com
@@ -9,11 +10,14 @@ api.admin.openai.com
 api.ads.openai.com
 api.chatgpt.com
 api.oaistatsig.com
+api.openai.com
 argocd.oaistatsig.com
 art-design.forum.openai.com
 artifacts.juno.openai.com
 auth.enterpriseservices.openai.com
 auth.openai.com
+auth0-dev.openai.com
+auth0.openai.com
 aw.api.openai.com
 blueberry.fde.openai.com
 bps.openai.com
@@ -21,11 +25,15 @@ brand-partners.openai.com
 brand.openai.com
 bzr.openai.com
 bzrcdn.openai.com
+cascades.openai.com
 cdn.console.oaistatsig.com
 cdn.openai.com
 cdn.openaimerge.com
 cdn.staging.openai.com
+cf-test.auth0.openai.com
 championevents.openai.com
+championnetwork.openai.com
+champions.openai.com
 chat.openai.com
 chatgpt.com
 ci-webhooks.api.openai.com
@@ -37,6 +45,7 @@ context.openai.com
 cookbook.openai.com
 creatoreducation.openai.com
 creators.openai.com
+csat.help.openai.com
 dagster-statscript.oaistatsig.com
 dagster.oaistatsig.com
 democratic-inputs.forum.openai.com
@@ -56,6 +65,7 @@ expert-ai-trainers.forum.openai.com
 external.auth.openai.com
 feather.openai.com
 files.openai.com
+forum.openai.com
 future-scholars.forum.openai.com
 go.openai.com
 gov-demo.chatgpt.com
@@ -104,8 +114,12 @@ openai-team.forum.openai.com
 openai.com
 openhouse.api.openai.com
 operator.chatgpt.com
+orderform.openai.com
 papaya.fde.openai.com
+partners.openai.com
 pay.openai.com
+peimcommunity.openai.com
+platform.openai.com
 prism.openai.com
 privacy-pass-issuer.api.chatgpt.com
 privacy.openai.com
@@ -115,6 +129,7 @@ reader.dagster.oaistatsig.com
 reader.spark8s.oaistatsig.com
 realtime.chatgpt.com
 recruiting.openai.com
+releases.openai.com
 responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com
 scim.openai.com
 search.chatgpt.com
@@ -138,6 +153,7 @@ staging.temporal.oaistatsig.com
 static-send.openai.com
 statsigcdn.openai.com
 status.openai.com
+student-forum.forum.openai.com
 supply.openai.com
 supplyco.openai.com
 support-monitoring.api.openai.com
@@ -146,6 +162,7 @@ tcr9i.chat.openai.com
 tcr9i.openai.com
 temporal-kelp.oaistatsig.com
 temporal.oaistatsig.com
+test-partners.openai.com
 transceiver.api.openai.com
 trust.openai.com
 ucb-dssj.forum.openai.com
