@@ -11,6 +11,7 @@ api.ads.openai.com
 api.chatgpt.com
 api.oaistatsig.com
 api.openai.com
+api.presence.openai.com
 argocd.oaistatsig.com
 art-design.forum.openai.com
 artifacts.juno.openai.com
@@ -99,6 +100,7 @@ math.forum.openai.com
 merchant.openai.com
 mergeproxy.openai.com
 model-spec.openai.com
+mtls.auth.openai.com
 nori-webhooks.api.openai.com
 nori.api.openai.com
 oai-gke-asia-southeast1.api.oaistatsig.com
@@ -124,6 +126,7 @@ partners.openai.com
 pay.openai.com
 peimcommunity.openai.com
 platform.openai.com
+presence.openai.com
 prism.openai.com
 privacy-pass-issuer.api.chatgpt.com
 privacy.openai.com

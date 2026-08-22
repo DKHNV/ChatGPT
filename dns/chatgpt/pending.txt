@@ -10,6 +10,7 @@ oaiusercontent.com
 preview.prism.openai.com
 private.api.openai.com
 production.openai.com
+scorpius.openai.com
 southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
 staging.openai.com
