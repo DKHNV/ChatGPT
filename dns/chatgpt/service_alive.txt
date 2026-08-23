@@ -96,6 +96,7 @@ latest.temporal.oaistatsig.com
 learn.chatgpt.com
 link.openai.com
 links.openai.com
+lychee.fde.openai.com
 mail-review.openai.com
 mango.fde.openai.com
 math.forum.openai.com
@@ -126,6 +127,7 @@ orderform.openai.com
 papaya.fde.openai.com
 partners.openai.com
 pay.openai.com
+pear.fde.openai.com
 peimcommunity.openai.com
 platform.openai.com
 presence.openai.com
