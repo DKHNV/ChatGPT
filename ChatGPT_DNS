@@ -20,6 +20,7 @@ auth.enterpriseservices.openai.com
 auth.openai.com
 auth0-dev.openai.com
 auth0.openai.com
+avocado.fde.openai.com
 aw.api.openai.com
 blueberry.fde.openai.com
 bps.openai.com
@@ -84,6 +85,7 @@ it-agent-ingress.api.openai.com
 jukebox.openai.com
 juno.openai.com
 ka3d0s888non270n82k.openai.com
+kiwi.fde.openai.com
 latest.api.oaistatsig.com
 latest.console.oaistatsig.com
 latest.dagster-statscript.oaistatsig.com
