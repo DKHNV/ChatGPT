@@ -3,31 +3,31 @@
     "certspotter": {
       "chatgpt.com": {
         "after": 16767137881,
-        "caught_up": false,
-        "last_poll": "2026-08-25T17:57:57Z"
+        "caught_up": true,
+        "last_poll": "2026-08-25T23:50:14Z"
       },
       "oaistatic.com": {
         "after": 15940041394,
         "caught_up": true,
-        "last_poll": "2026-08-25T17:57:57Z"
+        "last_poll": "2026-08-25T23:50:14Z"
       },
       "oaistatsig.com": {
         "after": 16712612193,
         "caught_up": true,
-        "last_poll": "2026-08-25T17:57:57Z"
+        "last_poll": "2026-08-25T23:50:14Z"
       },
       "oaiusercontent.com": {
         "after": null,
         "caught_up": false,
-        "last_poll": "2026-08-25T17:57:57Z"
+        "last_poll": "2026-08-25T23:50:14Z"
       },
       "openai.com": {
-        "after": 16772066008,
+        "after": 16778023588,
         "caught_up": false,
-        "last_poll": "2026-08-25T17:57:57Z"
+        "last_poll": "2026-08-25T23:50:14Z"
       }
     }
   },
-  "updated_at": "2026-08-25T17:57:57Z",
+  "updated_at": "2026-08-25T23:50:14Z",
   "version": 2
 }
