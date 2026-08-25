@@ -3,6 +3,4 @@ eastus2.privatelink.api.openai.com
 gringotts.openai.com
 jpm-prod.gringotts.openai.com
 scorpius.openai.com
-southcentralus.privatelink.api.openai.com
-spaincentral.privatelink.api.openai.com
 westus.privatelink.api.openai.com
