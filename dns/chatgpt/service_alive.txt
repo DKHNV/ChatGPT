@@ -74,6 +74,7 @@ future-scholars.forum.openai.com
 go.openai.com
 gov-demo.chatgpt.com
 gov.api.openai.com
+gov.chatgpt.com
 grants.openai.com
 gtm-innovation.api.openai.com
 guardrails.openai.com
