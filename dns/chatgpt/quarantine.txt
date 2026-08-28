@@ -1,0 +1,13 @@
+at.openai.com
+edge.chatgpt.com
+fde.openai.com
+latest.temporal-kelp.oaistatsig.com
+microscope-azure-edge.openai.com
+microscope-azure.openai.com
+microscope.openai.com
+oaiusercontent.com
+preview.prism.openai.com
+private.api.openai.com
+production.openai.com
+staging.openai.com
+staging.temporal-kelp.oaistatsig.com
