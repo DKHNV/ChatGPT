@@ -1,10 +1,10 @@
 /ip firewall address-list
 
 add list=chatgpt address=3.248.123.0/24 comment=chatgpt
+add list=chatgpt address=8.6.112.0/24 comment=chatgpt
+add list=chatgpt address=8.47.69.0/24 comment=chatgpt
 add list=chatgpt address=13.65.2.0/24 comment=chatgpt
-add list=chatgpt address=13.219.123.0/24 comment=chatgpt
 add list=chatgpt address=15.205.11.0/24 comment=chatgpt
-add list=chatgpt address=18.209.180.0/24 comment=chatgpt
 add list=chatgpt address=20.119.16.0/24 comment=chatgpt
 add list=chatgpt address=20.245.73.0/24 comment=chatgpt
 add list=chatgpt address=23.21.235.0/24 comment=chatgpt
@@ -15,13 +15,14 @@ add list=chatgpt address=34.36.104.0/24 comment=chatgpt
 add list=chatgpt address=34.36.214.0/24 comment=chatgpt
 add list=chatgpt address=34.54.22.0/24 comment=chatgpt
 add list=chatgpt address=34.120.180.0/24 comment=chatgpt
+add list=chatgpt address=34.205.79.0/24 comment=chatgpt
+add list=chatgpt address=34.226.112.0/24 comment=chatgpt
 add list=chatgpt address=40.38.48.0/24 comment=chatgpt
 add list=chatgpt address=40.38.121.0/24 comment=chatgpt
+add list=chatgpt address=52.21.142.0/24 comment=chatgpt
 add list=chatgpt address=52.72.136.0/24 comment=chatgpt
 add list=chatgpt address=52.84.50.0/24 comment=chatgpt
-add list=chatgpt address=52.201.195.0/24 comment=chatgpt
 add list=chatgpt address=52.213.47.0/24 comment=chatgpt
-add list=chatgpt address=54.204.216.0/24 comment=chatgpt
 add list=chatgpt address=54.240.174.0/24 comment=chatgpt
 add list=chatgpt address=64.239.109.0/24 comment=chatgpt
 add list=chatgpt address=64.239.123.0/24 comment=chatgpt
@@ -30,6 +31,7 @@ add list=chatgpt address=76.76.21.0/24 comment=chatgpt
 add list=chatgpt address=100.29.224.0/24 comment=chatgpt
 add list=chatgpt address=100.49.105.0/24 comment=chatgpt
 add list=chatgpt address=100.55.196.0/24 comment=chatgpt
+add list=chatgpt address=100.63.144.0/24 comment=chatgpt
 add list=chatgpt address=104.16.92.0/22 comment=chatgpt
 add list=chatgpt address=104.16.96.0/24 comment=chatgpt
 add list=chatgpt address=104.17.70.0/23 comment=chatgpt
