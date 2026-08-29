@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-08-28T19:26:05Z`
+Generated: `2026-08-29T04:17:09Z`
 
 ## DNS lifecycle
 
@@ -8,8 +8,8 @@ Generated: `2026-08-28T19:26:05Z`
 |---|---:|
 | Active | 192 |
 | Pending | 0 |
-| Suspect | 8 |
-| Quarantine | 13 |
+| Suspect | 6 |
+| Quarantine | 15 |
 | Excluded | 0 |
 | Expired | 0 |
 
@@ -40,12 +40,12 @@ Average stability: **99.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `foundry.openai.com` | suspect | `2026-08-23T11:48:51Z` | 20 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 20 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 27 | TLS_ERROR | 13.65.2.22 | 0.0 | 27 |
+| `foundry.openai.com` | suspect | `2026-08-23T11:48:51Z` | 21 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 21 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 28 | TLS_ERROR | 13.65.2.22 | 0.0 | 28 |
 
 ## Discovery
 
-Discovery state updated: `2026-08-28T19:26:05Z`
+Discovery state updated: `2026-08-29T04:17:09Z`
 
 ## Notes
 
