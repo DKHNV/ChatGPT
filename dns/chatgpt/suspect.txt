@@ -1,3 +1,0 @@
-bbva-iat.mtls.presence.openai.com
-gringotts.openai.com
-jpm-prod.gringotts.openai.com
