@@ -15,11 +15,11 @@ add list=chatgpt address=34.36.104.0/24 comment=chatgpt
 add list=chatgpt address=34.36.214.0/24 comment=chatgpt
 add list=chatgpt address=34.54.22.0/24 comment=chatgpt
 add list=chatgpt address=34.120.180.0/24 comment=chatgpt
+add list=chatgpt address=34.205.5.0/24 comment=chatgpt
 add list=chatgpt address=34.205.79.0/24 comment=chatgpt
 add list=chatgpt address=34.226.112.0/24 comment=chatgpt
 add list=chatgpt address=40.38.48.0/24 comment=chatgpt
 add list=chatgpt address=40.38.121.0/24 comment=chatgpt
-add list=chatgpt address=52.21.142.0/24 comment=chatgpt
 add list=chatgpt address=52.72.136.0/24 comment=chatgpt
 add list=chatgpt address=52.84.50.0/24 comment=chatgpt
 add list=chatgpt address=52.213.47.0/24 comment=chatgpt
@@ -30,8 +30,8 @@ add list=chatgpt address=66.33.60.0/24 comment=chatgpt
 add list=chatgpt address=76.76.21.0/24 comment=chatgpt
 add list=chatgpt address=100.29.224.0/24 comment=chatgpt
 add list=chatgpt address=100.49.105.0/24 comment=chatgpt
-add list=chatgpt address=100.55.196.0/24 comment=chatgpt
-add list=chatgpt address=100.63.144.0/24 comment=chatgpt
+add list=chatgpt address=100.58.46.0/24 comment=chatgpt
+add list=chatgpt address=100.61.28.0/24 comment=chatgpt
 add list=chatgpt address=104.16.92.0/22 comment=chatgpt
 add list=chatgpt address=104.16.96.0/24 comment=chatgpt
 add list=chatgpt address=104.17.70.0/23 comment=chatgpt
