@@ -10,10 +10,10 @@
       "first_observed": "2026-08-29T19:00:15Z",
       "hostname": "cdn.openai.com",
       "last_external_at": "2026-09-01T11:53:44Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-09-01T11:56:46Z",
       "observation_count": 17,
-      "presence_cycles": 844,
+      "presence_cycles": 987,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -32,10 +32,10 @@
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "chat.openai.com",
       "last_external_at": "2026-08-31T15:06:33Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-08-31T15:24:58Z",
       "observation_count": 3,
-      "presence_cycles": 942,
+      "presence_cycles": 1085,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -45,7 +45,7 @@
       "suffix": "openai.com"
     },
     "23d3247a3f0d61918bd82b18b6abc43b312eef25be12b15bf91584b50004161d": {
-      "active_cycles": 70,
+      "active_cycles": 102,
       "candidate_id": "23d3247a3f0d61918bd82b18b6abc43b312eef25be12b15bf91584b50004161d",
       "current_presence": true,
       "current_routing_status": "grace",
@@ -53,23 +53,24 @@
       "first_intake_at": "2026-08-29T13:45:28Z",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ws.chatgpt.com",
-      "last_external_at": "2026-09-01T20:47:30Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
-      "last_observed": "2026-09-01T20:51:44Z",
-      "observation_count": 149,
-      "presence_cycles": 943,
+      "last_external_at": "2026-09-02T08:48:28Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
+      "last_observed": "2026-09-02T08:58:31Z",
+      "observation_count": 208,
+      "presence_cycles": 1086,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-02"
       ],
       "state": "observed",
       "suffix": "chatgpt.com"
     },
     "3ec2876b8dc06d9394609e3ec32cdfdb024a6817a4d84af287ad9ac20271420e": {
-      "active_cycles": 80,
+      "active_cycles": 109,
       "candidate_id": "3ec2876b8dc06d9394609e3ec32cdfdb024a6817a4d84af287ad9ac20271420e",
       "current_presence": true,
       "current_routing_status": "grace",
@@ -77,41 +78,43 @@
       "first_intake_at": "2026-08-29T13:45:28Z",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "persistent.oaistatic.com",
-      "last_external_at": "2026-09-01T20:47:32Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
-      "last_observed": "2026-09-01T20:51:44Z",
-      "observation_count": 206,
-      "presence_cycles": 943,
+      "last_external_at": "2026-09-02T08:47:35Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
+      "last_observed": "2026-09-02T08:48:24Z",
+      "observation_count": 271,
+      "presence_cycles": 1086,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-02"
       ],
       "state": "observed",
       "suffix": "oaistatic.com"
     },
     "5988d6e201b40941d6937be342ea6887fb7d8e76a8942019d7b68cb05d2c7e0d": {
-      "active_cycles": 215,
+      "active_cycles": 288,
       "candidate_id": "5988d6e201b40941d6937be342ea6887fb7d8e76a8942019d7b68cb05d2c7e0d",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "grace",
       "feed_present": true,
       "first_intake_at": "2026-08-29T13:45:28Z",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ab.chatgpt.com",
-      "last_external_at": "2026-09-01T20:56:31Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
-      "last_observed": "2026-09-01T20:56:47Z",
-      "observation_count": 407,
-      "presence_cycles": 943,
+      "last_external_at": "2026-09-02T08:53:39Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
+      "last_observed": "2026-09-02T08:58:31Z",
+      "observation_count": 533,
+      "presence_cycles": 1086,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-02"
       ],
       "state": "observed",
       "suffix": "chatgpt.com"
@@ -126,7 +129,7 @@
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "cdn.oaistatic.com",
       "last_external_at": "2026-08-29T12:46:44Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-08-29T13:20:03Z",
       "observation_count": 2,
       "presence_cycles": 588,
@@ -147,7 +150,7 @@
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "console.oaistatsig.com",
       "last_external_at": "2026-08-29T12:46:47Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-08-29T13:14:38Z",
       "observation_count": 1,
       "presence_cycles": 588,
@@ -159,7 +162,7 @@
       "suffix": "oaistatsig.com"
     },
     "a95485a2f0617371e215691552d46a58a60582aea11210d42b83d8108fd39834": {
-      "active_cycles": 10,
+      "active_cycles": 11,
       "candidate_id": "a95485a2f0617371e215691552d46a58a60582aea11210d42b83d8108fd39834",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -168,10 +171,10 @@
       "first_observed": "2026-08-30T12:40:08Z",
       "hostname": "help.openai.com",
       "last_external_at": "2026-09-01T16:46:22Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-09-01T16:49:22Z",
       "observation_count": 3,
-      "presence_cycles": 624,
+      "presence_cycles": 767,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
@@ -181,7 +184,7 @@
       "suffix": "openai.com"
     },
     "c6cf6fa6870d4591b85fab089de3395b550dcb3a86f685252ec9701701acbd63": {
-      "active_cycles": 14,
+      "active_cycles": 16,
       "candidate_id": "c6cf6fa6870d4591b85fab089de3395b550dcb3a86f685252ec9701701acbd63",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -189,21 +192,22 @@
       "first_intake_at": "2026-08-30T15:26:28Z",
       "first_observed": "2026-08-30T12:40:08Z",
       "hostname": "help-center-cdn.oaistatic.com",
-      "last_external_at": "2026-09-01T16:46:23Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
-      "last_observed": "2026-09-01T16:49:22Z",
-      "observation_count": 3,
-      "presence_cycles": 624,
+      "last_external_at": "2026-09-02T04:46:31Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
+      "last_observed": "2026-09-02T05:06:19Z",
+      "observation_count": 7,
+      "presence_cycles": 767,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-02"
       ],
       "state": "observed",
       "suffix": "oaistatic.com"
     },
     "d840668652832f0693dcc6aab8c225a71274e265d2b04a3bb7258aee74ea6608": {
-      "active_cycles": 11,
+      "active_cycles": 12,
       "candidate_id": "d840668652832f0693dcc6aab8c225a71274e265d2b04a3bb7258aee74ea6608",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -212,10 +216,10 @@
       "first_observed": "2026-08-30T12:40:08Z",
       "hostname": "cdn.platform.openai.com",
       "last_external_at": "2026-09-01T16:46:23Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-09-01T16:49:22Z",
       "observation_count": 3,
-      "presence_cycles": 624,
+      "presence_cycles": 767,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-30",
@@ -234,7 +238,7 @@
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "api.openai.com",
       "last_external_at": "2026-08-29T12:46:37Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-08-29T13:20:03Z",
       "observation_count": 2,
       "presence_cycles": 588,
@@ -255,10 +259,10 @@
       "first_observed": "2026-09-01T09:35:29Z",
       "hostname": "files.openai.com",
       "last_external_at": "2026-09-01T09:31:20Z",
-      "last_intake_at": "2026-09-02T01:16:26Z",
+      "last_intake_at": "2026-09-02T09:50:21Z",
       "last_observed": "2026-09-01T09:35:29Z",
       "observation_count": 1,
-      "presence_cycles": 135,
+      "presence_cycles": 278,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-01"
@@ -267,11 +271,11 @@
       "suffix": "openai.com"
     }
   },
-  "last_intake_at": "2026-09-02T01:16:26Z",
+  "last_intake_at": "2026-09-02T09:50:21Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "chatgpt",
-  "source_content_hash": "3f9c9b263991c5f021c6490da90d12af4c84f668013cca344e866b6c70fcf64f",
-  "source_generated_at": "2026-09-01T20:56:47Z"
+  "source_content_hash": "0ba51f5e2fca51cb202a3a60e666d40ad8eb2b077ecd01c3a36d54f472292778",
+  "source_generated_at": "2026-09-02T08:58:31Z"
 }
