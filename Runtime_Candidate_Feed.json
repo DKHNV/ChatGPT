@@ -1,17 +1,17 @@
 {
   "candidates": [
     {
-      "active_cycles": 570,
+      "active_cycles": 611,
       "candidate_id": "5988d6e201b40941d6937be342ea6887fb7d8e76a8942019d7b68cb05d2c7e0d",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "active",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ab.chatgpt.com",
       "id_version": 1,
-      "last_external_at": "2026-09-05T20:55:11Z",
-      "last_observed": "2026-09-05T21:00:06Z",
-      "observation_count": 1018,
-      "presence_cycles": 2083,
+      "last_external_at": "2026-09-06T02:56:40Z",
+      "last_observed": "2026-09-06T02:58:00Z",
+      "observation_count": 1083,
+      "presence_cycles": 2154,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -21,7 +21,8 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-06"
       ],
       "state": "observed",
       "suffix": "chatgpt.com"
@@ -75,7 +76,7 @@
       "last_external_at": "2026-09-04T21:39:54Z",
       "last_observed": "2026-09-04T21:42:40Z",
       "observation_count": 26,
-      "presence_cycles": 1939,
+      "presence_cycles": 2010,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -118,7 +119,7 @@
       "last_external_at": "2026-09-04T19:24:58Z",
       "last_observed": "2026-09-04T19:26:18Z",
       "observation_count": 7,
-      "presence_cycles": 2083,
+      "presence_cycles": 2154,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -159,7 +160,7 @@
       "last_external_at": "2026-09-04T21:29:29Z",
       "last_observed": "2026-09-04T21:32:38Z",
       "observation_count": 2,
-      "presence_cycles": 629,
+      "presence_cycles": 700,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-09-01",
@@ -211,17 +212,17 @@
       "suffix": "openai.com"
     },
     {
-      "active_cycles": 192,
+      "active_cycles": 196,
       "candidate_id": "3ec2876b8dc06d9394609e3ec32cdfdb024a6817a4d84af287ad9ac20271420e",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "persistent.oaistatic.com",
       "id_version": 1,
-      "last_external_at": "2026-09-05T20:51:09Z",
-      "last_observed": "2026-09-05T20:55:05Z",
-      "observation_count": 519,
-      "presence_cycles": 2083,
+      "last_external_at": "2026-09-06T00:42:41Z",
+      "last_observed": "2026-09-06T00:52:04Z",
+      "observation_count": 539,
+      "presence_cycles": 2154,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -231,23 +232,24 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-06"
       ],
       "state": "observed",
       "suffix": "oaistatic.com"
     },
     {
-      "active_cycles": 178,
+      "active_cycles": 185,
       "candidate_id": "23d3247a3f0d61918bd82b18b6abc43b312eef25be12b15bf91584b50004161d",
       "current_presence": true,
       "current_routing_status": "expired",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ws.chatgpt.com",
       "id_version": 1,
-      "last_external_at": "2026-09-05T20:31:51Z",
-      "last_observed": "2026-09-05T20:50:01Z",
-      "observation_count": 389,
-      "presence_cycles": 2083,
+      "last_external_at": "2026-09-06T02:38:11Z",
+      "last_observed": "2026-09-06T02:42:52Z",
+      "observation_count": 402,
+      "presence_cycles": 2154,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -257,14 +259,15 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-06"
       ],
       "state": "observed",
       "suffix": "chatgpt.com"
     }
   ],
-  "content_hash": "9b0c20b2474d88c295973ccf3b668363a509c131cea9522de20e7b7e915d02cc",
-  "generated_at": "2026-09-05T21:00:06Z",
+  "content_hash": "491c8f00ee1958245062330bf42a823a8ef5d5728086735db414b292223b9d26",
+  "generated_at": "2026-09-06T02:58:00Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
