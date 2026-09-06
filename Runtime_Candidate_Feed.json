@@ -1,17 +1,17 @@
 {
   "candidates": [
     {
-      "active_cycles": 611,
+      "active_cycles": 653,
       "candidate_id": "5988d6e201b40941d6937be342ea6887fb7d8e76a8942019d7b68cb05d2c7e0d",
       "current_presence": true,
       "current_routing_status": "active",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ab.chatgpt.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T02:56:40Z",
-      "last_observed": "2026-09-06T02:58:00Z",
-      "observation_count": 1083,
-      "presence_cycles": 2154,
+      "last_external_at": "2026-09-06T08:52:44Z",
+      "last_observed": "2026-09-06T08:56:14Z",
+      "observation_count": 1152,
+      "presence_cycles": 2225,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -76,7 +76,7 @@
       "last_external_at": "2026-09-04T21:39:54Z",
       "last_observed": "2026-09-04T21:42:40Z",
       "observation_count": 26,
-      "presence_cycles": 2010,
+      "presence_cycles": 2081,
       "reactivation_count": 3,
       "seen_dates": [
         "2026-08-29",
@@ -109,7 +109,7 @@
       "suffix": "openai.com"
     },
     {
-      "active_cycles": 15,
+      "active_cycles": 16,
       "candidate_id": "0809d7548870f731c2b21917ee67996aa4362798263bb8b3398661523894b54f",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -119,7 +119,7 @@
       "last_external_at": "2026-09-04T19:24:58Z",
       "last_observed": "2026-09-04T19:26:18Z",
       "observation_count": 7,
-      "presence_cycles": 2154,
+      "presence_cycles": 2225,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -160,7 +160,7 @@
       "last_external_at": "2026-09-04T21:29:29Z",
       "last_observed": "2026-09-04T21:32:38Z",
       "observation_count": 2,
-      "presence_cycles": 700,
+      "presence_cycles": 771,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-09-01",
@@ -212,17 +212,17 @@
       "suffix": "openai.com"
     },
     {
-      "active_cycles": 196,
+      "active_cycles": 211,
       "candidate_id": "3ec2876b8dc06d9394609e3ec32cdfdb024a6817a4d84af287ad9ac20271420e",
       "current_presence": true,
-      "current_routing_status": "expired",
+      "current_routing_status": "grace",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "persistent.oaistatic.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T00:42:41Z",
-      "last_observed": "2026-09-06T00:52:04Z",
-      "observation_count": 539,
-      "presence_cycles": 2154,
+      "last_external_at": "2026-09-06T08:42:43Z",
+      "last_observed": "2026-09-06T08:51:11Z",
+      "observation_count": 562,
+      "presence_cycles": 2225,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -239,17 +239,17 @@
       "suffix": "oaistatic.com"
     },
     {
-      "active_cycles": 185,
+      "active_cycles": 190,
       "candidate_id": "23d3247a3f0d61918bd82b18b6abc43b312eef25be12b15bf91584b50004161d",
       "current_presence": true,
-      "current_routing_status": "expired",
+      "current_routing_status": "grace",
       "first_observed": "2026-08-29T13:14:38Z",
       "hostname": "ws.chatgpt.com",
       "id_version": 1,
-      "last_external_at": "2026-09-06T02:38:11Z",
-      "last_observed": "2026-09-06T02:42:52Z",
-      "observation_count": 402,
-      "presence_cycles": 2154,
+      "last_external_at": "2026-09-06T08:40:46Z",
+      "last_observed": "2026-09-06T08:41:05Z",
+      "observation_count": 416,
+      "presence_cycles": 2225,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -266,8 +266,8 @@
       "suffix": "chatgpt.com"
     }
   ],
-  "content_hash": "491c8f00ee1958245062330bf42a823a8ef5d5728086735db414b292223b9d26",
-  "generated_at": "2026-09-06T02:58:00Z",
+  "content_hash": "b7d0ea637257720172a23c03723fa62b6df41a8afbf14bbae30ed126fb1cf43c",
+  "generated_at": "2026-09-06T08:56:14Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
