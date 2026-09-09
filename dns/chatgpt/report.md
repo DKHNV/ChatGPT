@@ -1,12 +1,12 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-09T01:24:56Z`
+Generated: `2026-09-09T10:02:40Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 191 |
+| Active | 193 |
 | Pending | 0 |
 | Suspect | 1 |
 | Quarantine | 21 |
@@ -17,7 +17,7 @@ Generated: `2026-09-09T01:24:56Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 190 |
+| Alive | 192 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 2 |
@@ -26,7 +26,7 @@ Generated: `2026-09-09T01:24:56Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **192**
+Measured hosts: **194**
 Average stability: **99.0%**
 
 ## Current HTTPS/TLS failures
@@ -40,12 +40,12 @@ Average stability: **99.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 67 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 56 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 74 | TLS_ERROR | 13.65.2.22 | 0.0 | 56 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 68 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 56 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 75 | TLS_ERROR | 13.65.2.22 | 0.0 | 56 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-09T01:24:56Z`
+Discovery state updated: `2026-09-09T10:02:40Z`
 
 ## Notes
 
