@@ -1,7 +1,7 @@
 {
   "candidates": [
     {
-      "active_cycles": 1033,
+      "active_cycles": 1034,
       "candidate_id": "5988d6e201b40941d6937be342ea6887fb7d8e76a8942019d7b68cb05d2c7e0d",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-10T20:07:20Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 1848,
-      "presence_cycles": 3512,
+      "presence_cycles": 3583,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -35,14 +35,14 @@
       "active_cycles": 6,
       "candidate_id": "bcbe3e68972c8e6863e7c54005fbe4be2d26b8141e86c89d159fca2b4f2100bd",
       "current_presence": true,
-      "current_routing_status": "active",
+      "current_routing_status": "expired",
       "first_observed": "2026-09-10T20:09:57Z",
       "hostname": "api.oaistatsig.com",
       "id_version": 1,
       "last_external_at": "2026-09-10T20:06:46Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 2,
-      "presence_cycles": 11,
+      "presence_cycles": 82,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-10"
@@ -70,7 +70,7 @@
       "suffix": "openai.com"
     },
     {
-      "active_cycles": 5,
+      "active_cycles": 7,
       "candidate_id": "30b7c19f9dc0baea4c9616457f19ac2709b4966985a214b3a62f1160d043ba32",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -80,7 +80,7 @@
       "last_external_at": "2026-09-10T20:07:18Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 2,
-      "presence_cycles": 11,
+      "presence_cycles": 82,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-10"
@@ -99,7 +99,7 @@
       "last_external_at": "2026-09-10T20:07:18Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 3,
-      "presence_cycles": 583,
+      "presence_cycles": 654,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-09-08",
@@ -138,7 +138,7 @@
       "last_external_at": "2026-09-10T18:59:16Z",
       "last_observed": "2026-09-10T19:04:22Z",
       "observation_count": 34,
-      "presence_cycles": 2883,
+      "presence_cycles": 2954,
       "reactivation_count": 5,
       "seen_dates": [
         "2026-08-29",
@@ -184,7 +184,7 @@
       "last_external_at": "2026-09-09T08:49:42Z",
       "last_observed": "2026-09-09T09:05:10Z",
       "observation_count": 11,
-      "presence_cycles": 3511,
+      "presence_cycles": 3582,
       "reactivation_count": 2,
       "seen_dates": [
         "2026-08-29",
@@ -291,7 +291,7 @@
       "last_external_at": "2026-09-10T20:06:50Z",
       "last_observed": "2026-09-10T20:09:57Z",
       "observation_count": 921,
-      "presence_cycles": 3512,
+      "presence_cycles": 3583,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -312,17 +312,17 @@
       "suffix": "oaistatic.com"
     },
     {
-      "active_cycles": 4,
+      "active_cycles": 5,
       "candidate_id": "9c0ac83c0be00021658bd6085229a4b2fa4d9951ece4713756c286c35c33651a",
       "current_presence": true,
-      "current_routing_status": "grace",
+      "current_routing_status": "expired",
       "first_observed": "2026-09-10T20:09:57Z",
       "hostname": "sentinel.openai.com",
       "id_version": 1,
       "last_external_at": "2026-09-10T20:07:20Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 2,
-      "presence_cycles": 11,
+      "presence_cycles": 82,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-09-10"
@@ -341,7 +341,7 @@
       "last_external_at": "2026-09-10T20:06:49Z",
       "last_observed": "2026-09-10T20:15:00Z",
       "observation_count": 696,
-      "presence_cycles": 3512,
+      "presence_cycles": 3583,
       "reactivation_count": 1,
       "seen_dates": [
         "2026-08-29",
@@ -362,8 +362,8 @@
       "suffix": "chatgpt.com"
     }
   ],
-  "content_hash": "88c7be9f14e9212d97d39655426f9bfff62ef7ae75761b95e341b8d826f7697b",
-  "generated_at": "2026-09-10T21:00:15Z",
+  "content_hash": "3f4de1a08212b5eb5b4eee39808c80feb0910603e1ce47f9bf54e236eeb68026",
+  "generated_at": "2026-09-11T02:58:22Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
