@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-11T01:22:50Z`
+Generated: `2026-09-11T09:56:48Z`
 
 ## DNS lifecycle
 
@@ -40,12 +40,12 @@ Average stability: **99.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 75 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 59 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 82 | TLS_ERROR | 13.65.2.22 | 0.0 | 59 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 76 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 59 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 83 | TLS_ERROR | 13.65.2.22 | 0.0 | 59 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-11T01:22:50Z`
+Discovery state updated: `2026-09-11T09:56:48Z`
 
 ## Notes
 
