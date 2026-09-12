@@ -2,6 +2,7 @@ at.openai.com
 bbva-iat.mtls.presence.openai.com
 eastus2.privatelink.api.openai.com
 edge.chatgpt.com
+event.openai.com
 fde.openai.com
 gringotts.openai.com
 jpm-prod.gringotts.openai.com
