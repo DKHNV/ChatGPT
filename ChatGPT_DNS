@@ -96,6 +96,7 @@ latest.dagster-statscript.oaistatsig.com
 latest.dagster.oaistatsig.com
 latest.reader.dagster-statscript.oaistatsig.com
 latest.reader.dagster.oaistatsig.com
+latest.temporal-kelp.oaistatsig.com
 latest.temporal.oaistatsig.com
 learn.chatgpt.com
 link.openai.com
@@ -164,6 +165,7 @@ staging.dagster.oaistatsig.com
 staging.reader.dagster.oaistatsig.com
 staging.reader.spark8s.oaistatsig.com
 staging.spark8s.oaistatsig.com
+staging.temporal-kelp.oaistatsig.com
 staging.temporal.oaistatsig.com
 static-send.openai.com
 statsigcdn.openai.com
