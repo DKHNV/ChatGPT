@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-19T09:41:15Z`
+Generated: `2026-09-19T14:42:03Z`
 
 ## DNS lifecycle
 
@@ -41,13 +41,13 @@ Average stability: **98.5%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 107 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 114 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
-| `tore-argo-mcp.oaistatsig.com` | suspect | `2026-09-15T01:47:48Z` | 18 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 18 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 108 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 115 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
+| `tore-argo-mcp.oaistatsig.com` | suspect | `2026-09-15T01:47:48Z` | 19 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 19 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-19T09:41:15Z`
+Discovery state updated: `2026-09-19T14:42:03Z`
 
 ## Notes
 
