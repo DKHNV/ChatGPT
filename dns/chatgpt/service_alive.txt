@@ -40,7 +40,13 @@ championnetwork.openai.com
 champions.openai.com
 chat.openai.com
 chatgpt.com
+checkpoints-au.files.openai.com
 checkpoints-eu.files.openai.com
+checkpoints-gb.files.openai.com
+checkpoints-in.files.openai.com
+checkpoints-jp.files.openai.com
+checkpoints-kr.files.openai.com
+checkpoints-sg.files.openai.com
 checkpoints-us.files.openai.com
 ci-webhooks.api.openai.com
 click.openai.com
