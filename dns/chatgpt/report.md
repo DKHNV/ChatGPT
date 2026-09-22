@@ -1,12 +1,12 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-21T21:12:02Z`
+Generated: `2026-09-22T01:45:05Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 202 |
+| Active | 203 |
 | Pending | 0 |
 | Suspect | 3 |
 | Quarantine | 20 |
@@ -18,7 +18,7 @@ Generated: `2026-09-21T21:12:02Z`
 | State | Hosts |
 |---|---:|
 | Alive | 200 |
-| Unknown | 0 |
+| Unknown | 1 |
 | Suspect | 1 |
 | Dead | 2 |
 
@@ -26,13 +26,14 @@ Generated: `2026-09-21T21:12:02Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **203**
-Average stability: **98.5%**
+Measured hosts: **204**
+Average stability: **98.0%**
 
 ## Current HTTPS/TLS failures
 
 | Type | Hosts |
 |---|---:|
+| NETWORK_ERROR | 1 |
 | TIMEOUT | 1 |
 | TLS_CERT_ERROR | 1 |
 | TLS_ERROR | 1 |
@@ -41,13 +42,14 @@ Average stability: **98.5%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 117 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 124 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
-| `tore-argo-mcp.oaistatsig.com` | suspect | `2026-09-15T01:47:48Z` | 28 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 28 |
+| `codex-portals.api.openai.com` | unknown | `2026-09-22T01:45:05Z` | 1 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 1 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 118 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 125 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
+| `tore-argo-mcp.oaistatsig.com` | suspect | `2026-09-15T01:47:48Z` | 29 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 29 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-21T21:12:02Z`
+Discovery state updated: `2026-09-22T01:45:05Z`
 
 ## Notes
 
