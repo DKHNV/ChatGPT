@@ -17,4 +17,6 @@ scorpius.openai.com
 southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
 staging.openai.com
+stat-867-canary.latest.oaistatsig.com
+stat-867-canary.prod.oaistatsig.com
 westus.privatelink.api.openai.com
