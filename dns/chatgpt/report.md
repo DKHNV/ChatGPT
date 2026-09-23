@@ -1,12 +1,12 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-22T20:25:55Z`
+Generated: `2026-09-23T01:42:06Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 203 |
+| Active | 204 |
 | Pending | 0 |
 | Suspect | 1 |
 | Quarantine | 22 |
@@ -17,7 +17,7 @@ Generated: `2026-09-22T20:25:55Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 200 |
+| Alive | 201 |
 | Unknown | 1 |
 | Suspect | 0 |
 | Dead | 3 |
@@ -26,7 +26,7 @@ Generated: `2026-09-22T20:25:55Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **204**
+Measured hosts: **205**
 Average stability: **98.0%**
 
 ## Current HTTPS/TLS failures
@@ -42,14 +42,14 @@ Average stability: **98.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `codex-portals.api.openai.com` | unknown | `2026-09-22T01:45:05Z` | 4 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 4 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 121 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 128 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 32 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 32 |
+| `codex-portals.api.openai.com` | unknown | `2026-09-22T01:45:05Z` | 5 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 5 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 122 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 129 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 33 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 33 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-22T20:25:55Z`
+Discovery state updated: `2026-09-23T01:42:06Z`
 
 ## Notes
 
