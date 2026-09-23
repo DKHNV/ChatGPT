@@ -4,30 +4,30 @@
       "chatgpt.com": {
         "after": 17335489513,
         "caught_up": true,
-        "last_poll": "2026-09-23T15:32:04Z"
+        "last_poll": "2026-09-23T20:38:09Z"
       },
       "oaistatic.com": {
         "after": 17191994748,
         "caught_up": true,
-        "last_poll": "2026-09-23T15:32:04Z"
+        "last_poll": "2026-09-23T20:38:09Z"
       },
       "oaistatsig.com": {
         "after": 17181739366,
         "caught_up": true,
-        "last_poll": "2026-09-23T15:32:04Z"
+        "last_poll": "2026-09-23T20:38:09Z"
       },
       "oaiusercontent.com": {
         "after": 17160296914,
         "caught_up": true,
-        "last_poll": "2026-09-23T15:32:04Z"
+        "last_poll": "2026-09-23T20:38:09Z"
       },
       "openai.com": {
-        "after": 17353481578,
-        "caught_up": true,
-        "last_poll": "2026-09-23T15:32:04Z"
+        "after": 17371483117,
+        "caught_up": false,
+        "last_poll": "2026-09-23T20:38:09Z"
       }
     }
   },
-  "updated_at": "2026-09-23T15:32:04Z",
+  "updated_at": "2026-09-23T20:38:09Z",
   "version": 2
 }
