@@ -52,6 +52,7 @@ checkpoints-us.files.openai.com
 ci-webhooks.api.openai.com
 click.openai.com
 coconut.fde.openai.com
+codex-portals.gateway.unified-133.api.openai.com
 community.openai.com
 console.oaistatsig.com
 context.openai.com
@@ -145,6 +146,7 @@ presence.openai.com
 prism.openai.com
 privacy-pass-issuer.api.chatgpt.com
 privacy.openai.com
+private.api.openai.com
 progress.openai.com
 proxy.staging-presence.openai.com
 reader.dagster-statscript.oaistatsig.com

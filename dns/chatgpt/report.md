@@ -1,15 +1,15 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-09-24T15:53:08Z`
+Generated: `2026-09-24T20:41:06Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 204 |
+| Active | 206 |
 | Pending | 1 |
 | Suspect | 1 |
-| Quarantine | 22 |
+| Quarantine | 21 |
 | Excluded | 0 |
 | Expired | 0 |
 
@@ -17,7 +17,7 @@ Generated: `2026-09-24T15:53:08Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 201 |
+| Alive | 203 |
 | Unknown | 1 |
 | Suspect | 0 |
 | Dead | 3 |
@@ -26,8 +26,8 @@ Generated: `2026-09-24T15:53:08Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **205**
-Average stability: **98.0%**
+Measured hosts: **207**
+Average stability: **98.1%**
 
 ## Current HTTPS/TLS failures
 
@@ -42,14 +42,14 @@ Average stability: **98.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `codex-portals.api.openai.com` | unknown | `2026-09-22T01:45:05Z` | 11 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 11 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 128 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 135 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 39 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 39 |
+| `codex-portals.api.openai.com` | unknown | `2026-09-22T01:45:05Z` | 12 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 12 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 129 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 55 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 136 | TLS_ERROR | 13.65.2.22 | 0.0 | 55 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 40 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 40 |
 
 ## Discovery
 
-Discovery state updated: `2026-09-24T15:53:08Z`
+Discovery state updated: `2026-09-24T20:41:06Z`
 
 ## Notes
 
