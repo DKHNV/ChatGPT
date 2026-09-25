@@ -57,8 +57,10 @@ codex-portals.gateway.unified-133.api.openai.com
 codex-portals.gateway.unified-202.api.openai.com
 codex-portals.gateway.unified-208.api.openai.com
 codex-portals.gateway.unified-209.api.openai.com
+codex-portals.gateway.unified-210.api.openai.com
 codex-portals.gateway.unified-211.api.openai.com
 codex-portals.gateway.unified-212.api.openai.com
+codex-portals.gateway.unified-213.api.openai.com
 codex-portals.gateway.unified-214.api.openai.com
 codex-portals.gateway.unified-215.api.openai.com
 community.openai.com
