@@ -11,7 +11,7 @@
       "last_external_at": "2026-09-26T22:05:46Z",
       "last_observed": "2026-09-26T22:08:56Z",
       "observation_count": 3723,
-      "presence_cycles": 8026,
+      "presence_cycles": 8098,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-29",
@@ -58,7 +58,7 @@
       "last_external_at": "2026-09-26T22:10:55Z",
       "last_observed": "2026-09-26T22:13:59Z",
       "observation_count": 36,
-      "presence_cycles": 3531,
+      "presence_cycles": 3603,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-09-10",
@@ -165,7 +165,7 @@
       "last_external_at": "2026-09-26T18:10:05Z",
       "last_observed": "2026-09-26T19:12:19Z",
       "observation_count": 88,
-      "presence_cycles": 7190,
+      "presence_cycles": 7262,
       "reactivation_count": 12,
       "seen_dates": [
         "2026-08-29",
@@ -221,7 +221,7 @@
       "last_external_at": "2026-09-26T17:45:46Z",
       "last_observed": "2026-09-26T19:12:19Z",
       "observation_count": 32,
-      "presence_cycles": 8024,
+      "presence_cycles": 8096,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-08-29",
@@ -365,7 +365,7 @@
       "last_external_at": "2026-09-26T21:55:49Z",
       "last_observed": "2026-09-26T21:58:51Z",
       "observation_count": 1883,
-      "presence_cycles": 8026,
+      "presence_cycles": 8098,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-29",
@@ -431,7 +431,7 @@
       "last_external_at": "2026-09-26T22:10:59Z",
       "last_observed": "2026-09-26T22:13:59Z",
       "observation_count": 1482,
-      "presence_cycles": 8026,
+      "presence_cycles": 8098,
       "reactivation_count": 4,
       "seen_dates": [
         "2026-08-29",
@@ -468,8 +468,8 @@
       "suffix": "chatgpt.com"
     }
   ],
-  "content_hash": "d4928923ad098b41bb7d14579c28bb6f6a62b792a2fc25a1cfede8710ae32492",
-  "generated_at": "2026-09-27T02:56:20Z",
+  "content_hash": "f67ee15eda68ede765e9047bd38c034f11a751b7f7613cdf4f7039240eb76d6f",
+  "generated_at": "2026-09-27T08:59:54Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
