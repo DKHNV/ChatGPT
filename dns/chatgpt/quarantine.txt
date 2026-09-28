@@ -5,8 +5,6 @@ event.openai.com
 gringotts.openai.com
 jpm-prod.gringotts.openai.com
 scorpius.openai.com
-southcentralus.privatelink.api.openai.com
-spaincentral.privatelink.api.openai.com
 stat-867-canary.latest.oaistatsig.com
 stat-867-canary.prod.oaistatsig.com
 westus.privatelink.api.openai.com
