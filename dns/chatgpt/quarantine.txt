@@ -1,7 +1,4 @@
 artifacts.juno.openai.com
-bbva-iat.mtls.presence.openai.com
 event.openai.com
-gringotts.openai.com
-jpm-prod.gringotts.openai.com
 stat-867-canary.latest.oaistatsig.com
 stat-867-canary.prod.oaistatsig.com
