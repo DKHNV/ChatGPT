@@ -22,6 +22,7 @@ auth0-dev.openai.com
 auth0.openai.com
 avocado.fde.openai.com
 aw.api.openai.com
+bbva.proxy.presence.openai.com
 bbva.proxy.staging-presence.openai.com
 blueberry.fde.openai.com
 bps.openai.com
