@@ -166,6 +166,7 @@ reader.spark8s.oaistatsig.com
 realtime.chatgpt.com
 recruiting.openai.com
 releases.openai.com
+sc-agreements.fde.openai.com
 scim.openai.com
 search.chatgpt.com
 send.openai.com
