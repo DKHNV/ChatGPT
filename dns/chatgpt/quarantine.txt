@@ -1,4 +1,5 @@
 artifacts.juno.openai.com
 event.openai.com
+fde.openai.com
 stat-867-canary.latest.oaistatsig.com
 stat-867-canary.prod.oaistatsig.com

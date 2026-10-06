@@ -1,2 +1,2 @@
-fde.openai.com
 up1.oaiusercontent.com
+up2.oaiusercontent.com
