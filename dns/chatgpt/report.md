@@ -1,12 +1,12 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-06T12:10:39Z`
+Generated: `2026-10-06T21:50:30Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 219 |
+| Active | 220 |
 | Pending | 1 |
 | Suspect | 2 |
 | Quarantine | 5 |
@@ -17,7 +17,7 @@ Generated: `2026-10-06T12:10:39Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 215 |
+| Alive | 216 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 4 |
@@ -26,7 +26,7 @@ Generated: `2026-10-06T12:10:39Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **219**
+Measured hosts: **220**
 Average stability: **98.2%**
 
 ## Current HTTPS/TLS failures
@@ -42,14 +42,14 @@ Average stability: **98.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 55 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 53 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 172 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 53 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 179 | TLS_ERROR | 13.65.2.22 | 0.0 | 53 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 83 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 53 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 56 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 52 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 173 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 52 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 180 | TLS_ERROR | 13.65.2.22 | 0.0 | 52 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 84 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 52 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-06T12:10:39Z`
+Discovery state updated: `2026-10-06T21:50:30Z`
 
 ## Notes
 
