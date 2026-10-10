@@ -1,2 +1,1 @@
 at.openai.com
-up2.oaiusercontent.com
