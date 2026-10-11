@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-11T02:05:33Z`
+Generated: `2026-10-11T11:32:26Z`
 
 ## DNS lifecycle
 
@@ -8,8 +8,8 @@ Generated: `2026-10-11T02:05:33Z`
 |---|---:|
 | Active | 220 |
 | Pending | 0 |
-| Suspect | 1 |
-| Quarantine | 7 |
+| Suspect | 0 |
+| Quarantine | 8 |
 | Excluded | 0 |
 | Expired | 16 |
 
@@ -42,14 +42,14 @@ Average stability: **98.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 70 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 49 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 187 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 49 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 194 | TLS_ERROR | 13.65.2.22 | 0.0 | 49 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 98 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 49 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 71 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 49 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 188 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 49 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 195 | TLS_ERROR | 13.65.2.22 | 0.0 | 49 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 99 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 49 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-11T02:05:33Z`
+Discovery state updated: `2026-10-11T11:32:26Z`
 
 ## Notes
 
