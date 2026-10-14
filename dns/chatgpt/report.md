@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-13T21:56:05Z`
+Generated: `2026-10-14T02:05:56Z`
 
 ## DNS lifecycle
 
@@ -35,21 +35,22 @@ Average stability: **98.2%**
 |---|---:|
 | NETWORK_ERROR | 1 |
 | TIMEOUT | 1 |
-| TLS_CERT_ERROR | 1 |
+| TLS_CERT_ERROR | 2 |
 | TLS_ERROR | 1 |
 
 ### Failure details
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 77 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 46 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 194 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 46 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 201 | TLS_ERROR | 13.65.2.22 | 0.0 | 46 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 105 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 46 |
+| `cdn.staging.openai.com` | alive | `2026-10-14T02:05:56Z` | 1 | TLS_CERT_ERROR | 150.171.109.117, 150.171.109.225, 150.171.110.1 | 97.9 | 47 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 78 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 47 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 195 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 47 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 202 | TLS_ERROR | 13.65.2.22 | 0.0 | 47 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 106 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 47 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-13T21:56:05Z`
+Discovery state updated: `2026-10-14T02:05:56Z`
 
 ## Notes
 
