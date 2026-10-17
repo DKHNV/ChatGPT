@@ -34,7 +34,6 @@ cascades.openai.com
 cdn.console.oaistatsig.com
 cdn.openai.com
 cdn.openaimerge.com
-cdn.staging.openai.com
 cf-test.auth0.openai.com
 championevents.openai.com
 championnetwork.openai.com
