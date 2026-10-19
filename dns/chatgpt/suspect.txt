@@ -1,2 +1,3 @@
+csat.help.openai.com
 egress.presence.openai.com
 oaiusercontent.com
