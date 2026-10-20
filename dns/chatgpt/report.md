@@ -1,15 +1,15 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-19T17:40:33Z`
+Generated: `2026-10-20T02:00:46Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 313 |
+| Active | 314 |
 | Pending | 0 |
-| Suspect | 3 |
-| Quarantine | 7 |
+| Suspect | 2 |
+| Quarantine | 8 |
 | Excluded | 0 |
 | Expired | 16 |
 
@@ -17,7 +17,7 @@ Generated: `2026-10-19T17:40:33Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 309 |
+| Alive | 310 |
 | Unknown | 0 |
 | Suspect | 1 |
 | Dead | 4 |
@@ -26,7 +26,7 @@ Generated: `2026-10-19T17:40:33Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **314**
+Measured hosts: **315**
 Average stability: **98.6%**
 
 ## Current HTTPS/TLS failures
@@ -42,15 +42,15 @@ Average stability: **98.6%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `cdn.staging.openai.com` | suspect | `2026-10-14T02:05:56Z` | 23 | TLS_CERT_ERROR | 150.171.109.178, 150.171.109.184, 150.171.110.211 | 52.1 | 48 |
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 100 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 48 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 217 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 48 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 224 | TLS_ERROR | 13.65.2.22 | 0.0 | 48 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 128 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 48 |
+| `cdn.staging.openai.com` | suspect | `2026-10-14T02:05:56Z` | 24 | TLS_CERT_ERROR | 150.171.109.113, 150.171.109.118 | 50.0 | 48 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 101 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 48 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 218 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 48 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 225 | TLS_ERROR | 13.65.2.22 | 0.0 | 48 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 129 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 48 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-19T17:40:33Z`
+Discovery state updated: `2026-10-20T02:00:46Z`
 
 ## Notes
 
