@@ -3,7 +3,5 @@ at.openai.com
 egress.presence.openai.com
 fde.openai.com
 oaiusercontent.com
-stat-867-canary.latest.oaistatsig.com
-stat-867-canary.prod.oaistatsig.com
 up1.oaiusercontent.com
 up2.oaiusercontent.com
