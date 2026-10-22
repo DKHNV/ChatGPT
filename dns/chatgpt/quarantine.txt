@@ -1,5 +1,6 @@
 artifacts.juno.openai.com
 at.openai.com
+csat.help.openai.com
 egress.presence.openai.com
 fde.openai.com
 oaiusercontent.com

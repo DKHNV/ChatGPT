@@ -165,7 +165,6 @@ context.openai.com
 cookbook.openai.com
 creatoreducation.openai.com
 creators.openai.com
-csat.help.openai.com
 dagster-statscript.oaistatsig.com
 dagster.oaistatsig.com
 democratic-inputs.forum.openai.com
