@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-22T20:43:33Z`
+Generated: `2026-10-23T01:48:02Z`
 
 ## DNS lifecycle
 
@@ -34,7 +34,7 @@ Average stability: **98.5%**
 | Type | Hosts |
 |---|---:|
 | NETWORK_ERROR | 1 |
-| TIMEOUT | 1 |
+| TIMEOUT | 2 |
 | TLS_CERT_ERROR | 2 |
 | TLS_ERROR | 1 |
 
@@ -42,15 +42,16 @@ Average stability: **98.5%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 35 | TLS_CERT_ERROR | 150.171.110.177, 150.171.110.3 | 31.4 | 51 |
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 112 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 51 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 229 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 51 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 236 | TLS_ERROR | 13.65.2.22 | 0.0 | 51 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 140 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 51 |
+| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 36 | TLS_CERT_ERROR | 150.171.109.72, 150.171.109.76, 150.171.109.77 | 29.4 | 51 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 113 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 51 |
+| `codex-portals.gateway.unified-41.api.openai.com` | alive | `2026-10-23T01:48:02Z` | 1 | TIMEOUT | 52.248.65.112 | 96.4 | 28 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 230 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 51 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 237 | TLS_ERROR | 13.65.2.22 | 0.0 | 51 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 141 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 51 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-22T20:43:33Z`
+Discovery state updated: `2026-10-23T01:48:02Z`
 
 ## Notes
 
