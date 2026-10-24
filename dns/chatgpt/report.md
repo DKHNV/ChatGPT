@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-24T01:52:35Z`
+Generated: `2026-10-24T09:44:26Z`
 
 ## DNS lifecycle
 
@@ -27,7 +27,7 @@ Generated: `2026-10-24T01:52:35Z`
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
 Measured hosts: **318**
-Average stability: **98.5%**
+Average stability: **98.4%**
 
 ## Current HTTPS/TLS failures
 
@@ -42,16 +42,16 @@ Average stability: **98.5%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 40 | TLS_CERT_ERROR | 150.171.109.113, 150.171.109.119 | 23.1 | 52 |
-| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 117 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 52 |
-| `codex-portals.gateway.unified-41.api.openai.com` | alive | `2026-10-23T01:48:02Z` | 5 | TIMEOUT | 52.248.65.112 | 84.4 | 32 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 234 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 52 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 241 | TLS_ERROR | 13.65.2.22 | 0.0 | 52 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 145 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 52 |
+| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 41 | TLS_CERT_ERROR | 150.171.109.116, 150.171.109.74, 150.171.109.77 | 21.2 | 52 |
+| `codex-portals.api.openai.com` | dead | `2026-09-22T01:45:05Z` | 118 | NETWORK_ERROR | 172.65.163.70 | 0.0 | 52 |
+| `codex-portals.gateway.unified-41.api.openai.com` | alive | `2026-10-23T01:48:02Z` | 6 | TIMEOUT | 52.248.65.112 | 81.8 | 33 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 235 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 52 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 242 | TLS_ERROR | 13.65.2.22 | 0.0 | 52 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 146 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 52 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-24T01:52:35Z`
+Discovery state updated: `2026-10-24T09:44:26Z`
 
 ## Notes
 
