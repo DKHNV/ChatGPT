@@ -1,4 +1,3 @@
-artifacts.juno.openai.com
 at.openai.com
 csat.help.openai.com
 fde.openai.com
