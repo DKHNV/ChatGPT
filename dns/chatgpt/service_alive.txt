@@ -136,7 +136,6 @@ codex-portals.gateway.unified-26.api.openai.com
 codex-portals.gateway.unified-32.api.openai.com
 codex-portals.gateway.unified-39.api.openai.com
 codex-portals.gateway.unified-40.api.openai.com
-codex-portals.gateway.unified-41.api.openai.com
 codex-portals.gateway.unified-42.api.openai.com
 codex-portals.gateway.unified-43.api.openai.com
 codex-portals.gateway.unified-44.api.openai.com
