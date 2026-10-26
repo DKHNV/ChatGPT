@@ -1,0 +1,1 @@
+codex-portals.gateway.oci-0.api.openai.com
