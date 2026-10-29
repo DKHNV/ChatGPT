@@ -55,6 +55,7 @@ ci-webhooks.api.openai.com
 click.openai.com
 coconut.fde.openai.com
 codex-portals.api.openai.com
+codex-portals.gateway.unified-101.api.openai.com
 codex-portals.gateway.unified-102.api.openai.com
 codex-portals.gateway.unified-107.api.openai.com
 codex-portals.gateway.unified-11.api.openai.com
@@ -144,6 +145,7 @@ codex-portals.gateway.unified-43.api.openai.com
 codex-portals.gateway.unified-44.api.openai.com
 codex-portals.gateway.unified-71.api.openai.com
 codex-portals.gateway.unified-72.api.openai.com
+codex-portals.gateway.unified-73.api.openai.com
 codex-portals.gateway.unified-74.api.openai.com
 codex-portals.gateway.unified-75.api.openai.com
 codex-portals.gateway.unified-79.api.openai.com
