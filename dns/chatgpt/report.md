@@ -1,6 +1,6 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-10-29T06:17:46Z`
+Generated: `2026-10-29T13:33:19Z`
 
 ## DNS lifecycle
 
@@ -27,7 +27,7 @@ Generated: `2026-10-29T06:17:46Z`
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
 Measured hosts: **320**
-Average stability: **98.0%**
+Average stability: **97.9%**
 
 ## Current HTTPS/TLS failures
 
@@ -41,23 +41,23 @@ Average stability: **98.0%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 57 | TLS_CERT_ERROR | 150.171.110.195, 150.171.110.210, 150.171.110.211 | 0.0 | 52 |
-| `codex-portals.gateway.unified-41.api.openai.com` | suspect | `2026-10-23T01:48:02Z` | 22 | TIMEOUT | 52.248.65.112 | 55.1 | 49 |
-| `codex-portals.gateway.unified-42.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 2 | TIMEOUT | 13.84.242.214 | 95.9 | 49 |
-| `codex-portals.gateway.unified-43.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 1 | TIMEOUT | 13.65.189.203 | 98.0 | 49 |
-| `codex-portals.gateway.unified-73.api.openai.com` | unknown | `2026-10-29T06:17:46Z` | 1 | TIMEOUT | 172.204.24.16 | 0.0 | 1 |
-| `codex-portals.gateway.unified-74.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 2 | TIMEOUT | 4.197.236.184 | 95.8 | 48 |
-| `codex-portals.gateway.unified-75.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 1 | TIMEOUT | 48.218.32.133 | 97.9 | 48 |
-| `codex-portals.gateway.unified-92.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 2 | TIMEOUT | 4.201.225.205 | 95.8 | 48 |
-| `codex-portals.gateway.unified-93.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 1 | TIMEOUT | 4.201.180.103 | 97.9 | 48 |
-| `codex-portals.gateway.unified-95.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 1 | TIMEOUT | 4.197.163.90 | 97.9 | 48 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 251 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 52 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 258 | TLS_ERROR | 13.65.2.22 | 0.0 | 52 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 162 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 52 |
+| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 58 | TLS_CERT_ERROR | 150.171.109.178, 150.171.110.194, 150.171.110.210 | 0.0 | 52 |
+| `codex-portals.gateway.unified-41.api.openai.com` | suspect | `2026-10-23T01:48:02Z` | 23 | TIMEOUT | 52.248.65.112 | 54.0 | 50 |
+| `codex-portals.gateway.unified-42.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 3 | TIMEOUT | 13.84.242.214 | 94.0 | 50 |
+| `codex-portals.gateway.unified-43.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 2 | TIMEOUT | 13.65.189.203 | 96.0 | 50 |
+| `codex-portals.gateway.unified-73.api.openai.com` | unknown | `2026-10-29T06:17:46Z` | 2 | TIMEOUT | 172.204.24.16 | 0.0 | 2 |
+| `codex-portals.gateway.unified-74.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 3 | TIMEOUT | 4.197.236.184 | 93.9 | 49 |
+| `codex-portals.gateway.unified-75.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 2 | TIMEOUT | 48.218.32.133 | 95.9 | 49 |
+| `codex-portals.gateway.unified-92.api.openai.com` | alive | `2026-10-28T22:46:28Z` | 3 | TIMEOUT | 4.201.225.205 | 93.9 | 49 |
+| `codex-portals.gateway.unified-93.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 2 | TIMEOUT | 4.201.180.103 | 95.9 | 49 |
+| `codex-portals.gateway.unified-95.api.openai.com` | alive | `2026-10-29T06:17:46Z` | 2 | TIMEOUT | 4.197.163.90 | 95.9 | 49 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 252 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 52 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 259 | TLS_ERROR | 13.65.2.22 | 0.0 | 52 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 163 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 52 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-29T06:17:46Z`
+Discovery state updated: `2026-10-29T13:33:19Z`
 
 ## Notes
 
