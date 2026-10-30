@@ -1,4 +1,5 @@
 cdn.staging.openai.com
+codex-portals.gateway.unified-41.api.openai.com
 foundry.openai.com
 responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com
 tore-argo-mcp.oaistatsig.com
