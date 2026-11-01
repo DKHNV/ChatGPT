@@ -1,0 +1,8 @@
+codex-portals.gateway.unified-42.api.openai.com
+codex-portals.gateway.unified-43.api.openai.com
+codex-portals.gateway.unified-73.api.openai.com
+codex-portals.gateway.unified-74.api.openai.com
+codex-portals.gateway.unified-75.api.openai.com
+codex-portals.gateway.unified-92.api.openai.com
+codex-portals.gateway.unified-93.api.openai.com
+codex-portals.gateway.unified-95.api.openai.com
