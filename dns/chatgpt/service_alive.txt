@@ -54,11 +54,8 @@ ci-webhooks.api.openai.com
 click.openai.com
 coconut.fde.openai.com
 codex-portals.api.openai.com
-codex-portals.gateway.unified-101.api.openai.com
 codex-portals.gateway.unified-102.api.openai.com
 codex-portals.gateway.unified-107.api.openai.com
-codex-portals.gateway.unified-12.api.openai.com
-codex-portals.gateway.unified-120.api.openai.com
 codex-portals.gateway.unified-121.api.openai.com
 codex-portals.gateway.unified-122.api.openai.com
 codex-portals.gateway.unified-123.api.openai.com
@@ -68,12 +65,10 @@ codex-portals.gateway.unified-126.api.openai.com
 codex-portals.gateway.unified-128.api.openai.com
 codex-portals.gateway.unified-129.api.openai.com
 codex-portals.gateway.unified-133.api.openai.com
-codex-portals.gateway.unified-134.api.openai.com
 codex-portals.gateway.unified-135.api.openai.com
 codex-portals.gateway.unified-136.api.openai.com
 codex-portals.gateway.unified-141.api.openai.com
 codex-portals.gateway.unified-142.api.openai.com
-codex-portals.gateway.unified-143.api.openai.com
 codex-portals.gateway.unified-144.api.openai.com
 codex-portals.gateway.unified-146.api.openai.com
 codex-portals.gateway.unified-148.api.openai.com
@@ -87,7 +82,6 @@ codex-portals.gateway.unified-162.api.openai.com
 codex-portals.gateway.unified-163.api.openai.com
 codex-portals.gateway.unified-164.api.openai.com
 codex-portals.gateway.unified-165.api.openai.com
-codex-portals.gateway.unified-166.api.openai.com
 codex-portals.gateway.unified-167.api.openai.com
 codex-portals.gateway.unified-168.api.openai.com
 codex-portals.gateway.unified-169.api.openai.com
@@ -128,7 +122,6 @@ codex-portals.gateway.unified-213.api.openai.com
 codex-portals.gateway.unified-214.api.openai.com
 codex-portals.gateway.unified-215.api.openai.com
 codex-portals.gateway.unified-23.api.openai.com
-codex-portals.gateway.unified-26.api.openai.com
 codex-portals.gateway.unified-32.api.openai.com
 codex-portals.gateway.unified-39.api.openai.com
 codex-portals.gateway.unified-40.api.openai.com
@@ -140,7 +133,6 @@ codex-portals.gateway.unified-81.api.openai.com
 codex-portals.gateway.unified-82.api.openai.com
 codex-portals.gateway.unified-83.api.openai.com
 codex-portals.gateway.unified-86.api.openai.com
-codex-portals.gateway.unified-87.api.openai.com
 codex-portals.gateway.unified-88.api.openai.com
 codex-portals.gateway.unified-97.api.openai.com
 community.openai.com

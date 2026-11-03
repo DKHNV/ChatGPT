@@ -1,2 +1,2 @@
-codex-portals.gateway.oci-0.api.openai.com
 southcentralus.privatelink.api.openai.com
+webhook-router.api.openai.com

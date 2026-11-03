@@ -1,4 +1,5 @@
 at.openai.com
+codex-portals.gateway.oci-0.api.openai.com
 csat.help.openai.com
 fde.openai.com
 oaiusercontent.com
