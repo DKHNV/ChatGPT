@@ -1,2 +1,1 @@
 netsec-ingest.api.openai.com
-spaincentral.privatelink.api.openai.com
