@@ -228,6 +228,7 @@ merchant.openai.com
 mergeproxy.openai.com
 model-spec.openai.com
 mtls.auth.openai.com
+netsec-ingest.api.openai.com
 nori-webhooks.api.openai.com
 nori.api.openai.com
 oai-gke-asia-southeast1.api.oaistatsig.com
