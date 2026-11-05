@@ -1,3 +1,2 @@
-southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
 webhook-router.api.openai.com

@@ -1,7 +1,7 @@
 at.openai.com
 codex-portals.gateway.oci-0.api.openai.com
 csat.help.openai.com
-fde.openai.com
 oaiusercontent.com
+southcentralus.privatelink.api.openai.com
 up1.oaiusercontent.com
 up2.oaiusercontent.com
