@@ -1,12 +1,12 @@
 # Chatgpt DNS Maintenance Report
 
-Generated: `2026-11-05T07:14:03Z`
+Generated: `2026-11-05T20:12:45Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 320 |
+| Active | 321 |
 | Pending | 0 |
 | Suspect | 2 |
 | Quarantine | 7 |
@@ -17,7 +17,7 @@ Generated: `2026-11-05T07:14:03Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 290 |
+| Alive | 291 |
 | Unknown | 0 |
 | Suspect | 18 |
 | Dead | 13 |
@@ -26,8 +26,8 @@ Generated: `2026-11-05T07:14:03Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **321**
-Average stability: **94.9%**
+Measured hosts: **322**
+Average stability: **94.7%**
 
 ## Current HTTPS/TLS failures
 
@@ -41,41 +41,41 @@ Average stability: **94.9%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 75 | TLS_CERT_ERROR | 150.171.109.148, 150.171.109.152 | 0.0 | 43 |
-| `codex-portals.gateway.unified-101.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 4.201.200.182 | 26.3 | 19 |
-| `codex-portals.gateway.unified-11.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 172.183.35.77 | 62.8 | 43 |
-| `codex-portals.gateway.unified-119.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 51.57.76.34 | 62.8 | 43 |
-| `codex-portals.gateway.unified-12.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 172.214.151.156 | 67.4 | 43 |
-| `codex-portals.gateway.unified-120.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 4.242.230.113 | 67.4 | 43 |
-| `codex-portals.gateway.unified-134.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 74.248.133.45 | 67.4 | 43 |
-| `codex-portals.gateway.unified-143.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 74.248.123.18 | 67.4 | 43 |
-| `codex-portals.gateway.unified-156.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 17 | TIMEOUT | 20.211.198.50 | 60.5 | 43 |
-| `codex-portals.gateway.unified-158.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 17 | TIMEOUT | 85.211.195.189 | 60.5 | 43 |
-| `codex-portals.gateway.unified-160.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 20.206.107.238 | 62.8 | 43 |
-| `codex-portals.gateway.unified-166.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 52.234.28.116 | 67.4 | 43 |
-| `codex-portals.gateway.unified-24.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 74.248.138.237 | 62.8 | 43 |
-| `codex-portals.gateway.unified-26.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 72.146.36.89 | 67.4 | 43 |
-| `codex-portals.gateway.unified-41.api.openai.com` | dead | `2026-10-23T01:48:02Z` | 40 | TIMEOUT | 52.248.65.112 | 7.0 | 43 |
-| `codex-portals.gateway.unified-42.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 20 | TIMEOUT | 13.84.242.214 | 53.5 | 43 |
-| `codex-portals.gateway.unified-43.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 19 | TIMEOUT | 13.65.189.203 | 55.8 | 43 |
-| `codex-portals.gateway.unified-73.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 19 | TIMEOUT | 172.204.24.16 | 0.0 | 19 |
-| `codex-portals.gateway.unified-74.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 20 | TIMEOUT | 4.197.236.184 | 53.5 | 43 |
-| `codex-portals.gateway.unified-75.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 19 | TIMEOUT | 48.218.32.133 | 55.8 | 43 |
-| `codex-portals.gateway.unified-80.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 17 | TIMEOUT | 20.68.52.70 | 60.5 | 43 |
-| `codex-portals.gateway.unified-84.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 4.201.114.119 | 62.8 | 43 |
-| `codex-portals.gateway.unified-87.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 14 | TIMEOUT | 4.190.157.198 | 67.4 | 43 |
-| `codex-portals.gateway.unified-92.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 20 | TIMEOUT | 4.201.225.205 | 53.5 | 43 |
-| `codex-portals.gateway.unified-93.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 19 | TIMEOUT | 4.201.180.103 | 55.8 | 43 |
-| `codex-portals.gateway.unified-94.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 17 | TIMEOUT | 4.194.136.111 | 60.5 | 43 |
-| `codex-portals.gateway.unified-95.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 19 | TIMEOUT | 4.197.163.90 | 55.8 | 43 |
-| `codex-portals.gateway.unified-96.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 16 | TIMEOUT | 4.190.201.17 | 62.8 | 43 |
-| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 269 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 43 |
-| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 276 | TLS_ERROR | 13.65.2.22 | 0.0 | 43 |
-| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 180 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 43 |
+| `cdn.staging.openai.com` | dead | `2026-10-14T02:05:56Z` | 76 | TLS_CERT_ERROR | 150.171.109.145, 150.171.109.147, 150.171.109.151 | 0.0 | 42 |
+| `codex-portals.gateway.unified-101.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 4.201.200.182 | 25.0 | 20 |
+| `codex-portals.gateway.unified-11.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 172.183.35.77 | 59.5 | 42 |
+| `codex-portals.gateway.unified-119.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 51.57.76.34 | 59.5 | 42 |
+| `codex-portals.gateway.unified-12.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 172.214.151.156 | 64.3 | 42 |
+| `codex-portals.gateway.unified-120.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 4.242.230.113 | 64.3 | 42 |
+| `codex-portals.gateway.unified-134.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 74.248.133.45 | 64.3 | 42 |
+| `codex-portals.gateway.unified-143.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 74.248.123.18 | 64.3 | 42 |
+| `codex-portals.gateway.unified-156.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 18 | TIMEOUT | 20.211.198.50 | 57.1 | 42 |
+| `codex-portals.gateway.unified-158.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 18 | TIMEOUT | 85.211.195.189 | 57.1 | 42 |
+| `codex-portals.gateway.unified-160.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 20.206.107.238 | 59.5 | 42 |
+| `codex-portals.gateway.unified-166.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 52.234.28.116 | 64.3 | 42 |
+| `codex-portals.gateway.unified-24.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 74.248.138.237 | 59.5 | 42 |
+| `codex-portals.gateway.unified-26.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 72.146.36.89 | 64.3 | 42 |
+| `codex-portals.gateway.unified-41.api.openai.com` | dead | `2026-10-23T01:48:02Z` | 41 | TIMEOUT | 52.248.65.112 | 2.4 | 42 |
+| `codex-portals.gateway.unified-42.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 21 | TIMEOUT | 13.84.242.214 | 50.0 | 42 |
+| `codex-portals.gateway.unified-43.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 20 | TIMEOUT | 13.65.189.203 | 52.4 | 42 |
+| `codex-portals.gateway.unified-73.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 20 | TIMEOUT | 172.204.24.16 | 0.0 | 20 |
+| `codex-portals.gateway.unified-74.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 21 | TIMEOUT | 4.197.236.184 | 50.0 | 42 |
+| `codex-portals.gateway.unified-75.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 20 | TIMEOUT | 48.218.32.133 | 52.4 | 42 |
+| `codex-portals.gateway.unified-80.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 18 | TIMEOUT | 20.68.52.70 | 57.1 | 42 |
+| `codex-portals.gateway.unified-84.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 4.201.114.119 | 59.5 | 42 |
+| `codex-portals.gateway.unified-87.api.openai.com` | suspect | `2026-10-30T22:35:24Z` | 15 | TIMEOUT | 4.190.157.198 | 64.3 | 42 |
+| `codex-portals.gateway.unified-92.api.openai.com` | dead | `2026-10-28T22:46:28Z` | 21 | TIMEOUT | 4.201.225.205 | 50.0 | 42 |
+| `codex-portals.gateway.unified-93.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 20 | TIMEOUT | 4.201.180.103 | 52.4 | 42 |
+| `codex-portals.gateway.unified-94.api.openai.com` | suspect | `2026-10-29T22:55:07Z` | 18 | TIMEOUT | 4.194.136.111 | 57.1 | 42 |
+| `codex-portals.gateway.unified-95.api.openai.com` | dead | `2026-10-29T06:17:46Z` | 20 | TIMEOUT | 4.197.163.90 | 52.4 | 42 |
+| `codex-portals.gateway.unified-96.api.openai.com` | suspect | `2026-10-30T06:17:53Z` | 17 | TIMEOUT | 4.190.201.17 | 59.5 | 42 |
+| `foundry.openai.com` | dead | `2026-08-23T11:48:51Z` | 270 | TIMEOUT | 15.205.11.130, 40.38.121.218, 40.38.48.92 | 0.0 | 42 |
+| `responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com` | dead | `2026-08-21T17:58:03Z` | 277 | TLS_ERROR | 13.65.2.22 | 0.0 | 42 |
+| `tore-argo-mcp.oaistatsig.com` | dead | `2026-09-15T01:47:48Z` | 181 | TLS_CERT_ERROR | 107.178.243.93 | 0.0 | 42 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-05T07:14:03Z`
+Discovery state updated: `2026-11-05T20:12:45Z`
 
 ## Notes
 
