@@ -5,3 +5,4 @@ oaiusercontent.com
 southcentralus.privatelink.api.openai.com
 up1.oaiusercontent.com
 up2.oaiusercontent.com
+webhook-router.api.openai.com

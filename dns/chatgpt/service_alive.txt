@@ -199,6 +199,7 @@ mango.fde.openai.com
 math.forum.openai.com
 merchant.openai.com
 mergeproxy.openai.com
+microscope.openai.com
 model-spec.openai.com
 mtls.auth.openai.com
 netsec-ingest.api.openai.com
@@ -285,7 +286,6 @@ url603.notify.openai.com
 url7551.codex.chatgpt.com
 url9335.recruiting.openai.com
 videos.openai.com
-webhook-router.api.openai.com
 webinar.openai.com
 ws.chatgpt.com
 www.devday.openai.com

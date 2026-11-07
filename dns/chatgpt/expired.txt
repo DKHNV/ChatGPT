@@ -8,7 +8,6 @@ gringotts.openai.com
 jpm-prod.gringotts.openai.com
 microscope-azure-edge.openai.com
 microscope-azure.openai.com
-microscope.openai.com
 preview.prism.openai.com
 production.openai.com
 scorpius.openai.com

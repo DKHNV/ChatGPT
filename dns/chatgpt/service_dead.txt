@@ -1,10 +1,17 @@
 cdn.staging.openai.com
+codex-portals.gateway.unified-101.api.openai.com
 codex-portals.gateway.unified-11.api.openai.com
 codex-portals.gateway.unified-119.api.openai.com
+codex-portals.gateway.unified-12.api.openai.com
+codex-portals.gateway.unified-120.api.openai.com
+codex-portals.gateway.unified-134.api.openai.com
+codex-portals.gateway.unified-143.api.openai.com
 codex-portals.gateway.unified-156.api.openai.com
 codex-portals.gateway.unified-158.api.openai.com
 codex-portals.gateway.unified-160.api.openai.com
+codex-portals.gateway.unified-166.api.openai.com
 codex-portals.gateway.unified-24.api.openai.com
+codex-portals.gateway.unified-26.api.openai.com
 codex-portals.gateway.unified-41.api.openai.com
 codex-portals.gateway.unified-42.api.openai.com
 codex-portals.gateway.unified-43.api.openai.com
@@ -13,6 +20,7 @@ codex-portals.gateway.unified-74.api.openai.com
 codex-portals.gateway.unified-75.api.openai.com
 codex-portals.gateway.unified-80.api.openai.com
 codex-portals.gateway.unified-84.api.openai.com
+codex-portals.gateway.unified-87.api.openai.com
 codex-portals.gateway.unified-92.api.openai.com
 codex-portals.gateway.unified-93.api.openai.com
 codex-portals.gateway.unified-94.api.openai.com

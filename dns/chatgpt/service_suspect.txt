@@ -1,8 +1,0 @@
-codex-portals.gateway.unified-101.api.openai.com
-codex-portals.gateway.unified-12.api.openai.com
-codex-portals.gateway.unified-120.api.openai.com
-codex-portals.gateway.unified-134.api.openai.com
-codex-portals.gateway.unified-143.api.openai.com
-codex-portals.gateway.unified-166.api.openai.com
-codex-portals.gateway.unified-26.api.openai.com
-codex-portals.gateway.unified-87.api.openai.com
