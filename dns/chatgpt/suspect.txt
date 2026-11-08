@@ -1,1 +1,0 @@
-spaincentral.privatelink.api.openai.com

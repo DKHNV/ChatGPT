@@ -1,0 +1,2 @@
+codex-portals.gateway.unified-219.api.openai.com
+codex-portals.gateway.unified-249.api.openai.com
