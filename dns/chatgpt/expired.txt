@@ -15,4 +15,5 @@ staging.openai.com
 stat-867-canary.latest.oaistatsig.com
 stat-867-canary.prod.oaistatsig.com
 up1.oaiusercontent.com
+up2.oaiusercontent.com
 westus.privatelink.api.openai.com

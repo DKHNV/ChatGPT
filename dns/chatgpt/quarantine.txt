@@ -4,5 +4,4 @@ csat.help.openai.com
 oaiusercontent.com
 southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
-up2.oaiusercontent.com
 webhook-router.api.openai.com
