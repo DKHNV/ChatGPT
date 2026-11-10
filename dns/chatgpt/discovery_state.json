@@ -2,32 +2,32 @@
   "sources": {
     "certspotter": {
       "chatgpt.com": {
-        "after": 18079695320,
-        "caught_up": true,
-        "last_poll": "2026-11-10T07:39:04Z"
+        "after": 18293318809,
+        "caught_up": false,
+        "last_poll": "2026-11-10T19:56:02Z"
       },
       "oaistatic.com": {
         "after": 17783362269,
         "caught_up": true,
-        "last_poll": "2026-11-10T07:39:04Z"
+        "last_poll": "2026-11-10T19:56:02Z"
       },
       "oaistatsig.com": {
         "after": 18252435585,
         "caught_up": true,
-        "last_poll": "2026-11-10T07:39:04Z"
+        "last_poll": "2026-11-10T19:56:02Z"
       },
       "oaiusercontent.com": {
         "after": 18131098336,
         "caught_up": true,
-        "last_poll": "2026-11-10T07:39:04Z"
+        "last_poll": "2026-11-10T19:56:02Z"
       },
       "openai.com": {
-        "after": 18282376212,
+        "after": 18296929605,
         "caught_up": false,
-        "last_poll": "2026-11-10T07:39:04Z"
+        "last_poll": "2026-11-10T19:56:02Z"
       }
     }
   },
-  "updated_at": "2026-11-10T07:39:04Z",
+  "updated_at": "2026-11-10T19:56:02Z",
   "version": 2
 }

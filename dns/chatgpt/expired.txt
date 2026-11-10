@@ -1,4 +1,5 @@
 artifacts.juno.openai.com
+at.openai.com
 bbva-iat.mtls.presence.openai.com
 eastus2.privatelink.api.openai.com
 edge.chatgpt.com
