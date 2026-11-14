@@ -1,0 +1,2 @@
+artifacts.juno.openai.com
+westus.privatelink.api.openai.com
