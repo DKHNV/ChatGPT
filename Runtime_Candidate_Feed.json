@@ -11,7 +11,7 @@
       "last_external_at": "2026-11-14T23:02:27Z",
       "last_observed": "2026-11-14T23:05:41Z",
       "observation_count": 10496,
-      "presence_cycles": 21670,
+      "presence_cycles": 21741,
       "reactivation_count": 10,
       "seen_dates": [
         "2026-08-29",
@@ -326,7 +326,7 @@
       "last_external_at": "2026-11-14T09:41:09Z",
       "last_observed": "2026-11-14T10:03:24Z",
       "observation_count": 52,
-      "presence_cycles": 14181,
+      "presence_cycles": 14252,
       "reactivation_count": 24,
       "seen_dates": [
         "2026-08-30",
@@ -374,7 +374,7 @@
       "last_external_at": "2026-11-14T09:41:02Z",
       "last_observed": "2026-11-14T10:03:24Z",
       "observation_count": 82,
-      "presence_cycles": 21535,
+      "presence_cycles": 21606,
       "reactivation_count": 15,
       "seen_dates": [
         "2026-08-29",
@@ -483,7 +483,7 @@
       "last_external_at": "2026-11-14T22:47:46Z",
       "last_observed": "2026-11-14T22:50:38Z",
       "observation_count": 784,
-      "presence_cycles": 12538,
+      "presence_cycles": 12609,
       "reactivation_count": 6,
       "seen_dates": [
         "2026-09-30",
@@ -587,7 +587,7 @@
       "last_external_at": "2026-11-13T06:28:32Z",
       "last_observed": "2026-11-13T07:01:51Z",
       "observation_count": 28,
-      "presence_cycles": 7116,
+      "presence_cycles": 7187,
       "reactivation_count": 13,
       "seen_dates": [
         "2026-09-01",
@@ -743,7 +743,7 @@
       "last_external_at": "2026-11-14T22:49:32Z",
       "last_observed": "2026-11-14T23:30:47Z",
       "observation_count": 5621,
-      "presence_cycles": 21531,
+      "presence_cycles": 21602,
       "reactivation_count": 13,
       "seen_dates": [
         "2026-08-29",
@@ -897,7 +897,7 @@
       "last_external_at": "2026-11-14T22:49:40Z",
       "last_observed": "2026-11-14T22:50:38Z",
       "observation_count": 5502,
-      "presence_cycles": 21664,
+      "presence_cycles": 21735,
       "reactivation_count": 10,
       "seen_dates": [
         "2026-08-29",
@@ -983,8 +983,8 @@
       "suffix": "chatgpt.com"
     }
   ],
-  "content_hash": "a36afa8780613f73d776d22783dc123d3a93a41964b3931ee0d40c7ddf6ecdef",
-  "generated_at": "2026-11-15T03:57:32Z",
+  "content_hash": "5920d3f1e88059c9adcb570c31949a41ab8cbe6382b3756502dadb86f0112a89",
+  "generated_at": "2026-11-15T09:56:39Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
