@@ -28,6 +28,5 @@ codex-portals.gateway.unified-93.api.openai.com
 codex-portals.gateway.unified-94.api.openai.com
 codex-portals.gateway.unified-95.api.openai.com
 codex-portals.gateway.unified-96.api.openai.com
-foundry.openai.com
 responsesapi-cert-publisher.gateway-passthrough.unified-0.api.openai.com
 tore-argo-mcp.oaistatsig.com

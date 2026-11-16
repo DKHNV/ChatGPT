@@ -65,7 +65,6 @@ codex-portals.gateway.unified-126.api.openai.com
 codex-portals.gateway.unified-128.api.openai.com
 codex-portals.gateway.unified-129.api.openai.com
 codex-portals.gateway.unified-133.api.openai.com
-codex-portals.gateway.unified-135.api.openai.com
 codex-portals.gateway.unified-136.api.openai.com
 codex-portals.gateway.unified-141.api.openai.com
 codex-portals.gateway.unified-142.api.openai.com
@@ -163,6 +162,7 @@ feather.openai.com
 fedelm-quetzal.fde.openai.com
 files.openai.com
 forum.openai.com
+foundry.openai.com
 future-scholars.forum.openai.com
 go.openai.com
 gov-demo.chatgpt.com
