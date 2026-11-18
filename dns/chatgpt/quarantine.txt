@@ -1,6 +1,8 @@
+artifacts.juno.openai.com
 codex-portals.gateway.oci-0.api.openai.com
 csat.help.openai.com
 oaiusercontent.com
 southcentralus.privatelink.api.openai.com
 spaincentral.privatelink.api.openai.com
 webhook-router.api.openai.com
+westus.privatelink.api.openai.com

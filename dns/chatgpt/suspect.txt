@@ -1,3 +1,2 @@
-artifacts.juno.openai.com
+eastus2.privatelink.api.openai.com
 oai-gke-us-central1.api.oaistatsig.com
-westus.privatelink.api.openai.com
