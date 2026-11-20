@@ -210,7 +210,6 @@ oai-gke-asia-southeast1.api.oaistatsig.com
 oai-gke-europe-north1.api.oaistatsig.com
 oai-gke-europe-west1.api.oaistatsig.com
 oai-gke-us-central1-mori.api.oaistatsig.com
-oai-gke-us-central1.api.oaistatsig.com
 oai-gke-us-east1.api.oaistatsig.com
 oai-gke-us-east5.api.oaistatsig.com
 oai-gke-us-west1.api.oaistatsig.com

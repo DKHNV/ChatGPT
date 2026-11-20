@@ -1,2 +1,1 @@
 eastus2.privatelink.api.openai.com
-oai-gke-us-central1.api.oaistatsig.com
