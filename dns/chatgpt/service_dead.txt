@@ -5,6 +5,7 @@ codex-portals.gateway.unified-119.api.openai.com
 codex-portals.gateway.unified-12.api.openai.com
 codex-portals.gateway.unified-120.api.openai.com
 codex-portals.gateway.unified-134.api.openai.com
+codex-portals.gateway.unified-135.api.openai.com
 codex-portals.gateway.unified-143.api.openai.com
 codex-portals.gateway.unified-156.api.openai.com
 codex-portals.gateway.unified-158.api.openai.com
