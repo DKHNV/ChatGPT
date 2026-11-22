@@ -1,5 +1,6 @@
 at.openai.com
 bbva-iat.mtls.presence.openai.com
+csat.help.openai.com
 edge.chatgpt.com
 event.openai.com
 fde.openai.com
