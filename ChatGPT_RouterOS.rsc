@@ -92,6 +92,7 @@ add list=chatgpt address=51.107.70.0/24 comment=chatgpt
 add list=chatgpt address=51.107.229.0/24 comment=chatgpt
 add list=chatgpt address=51.116.24.0/24 comment=chatgpt
 add list=chatgpt address=51.116.219.0/24 comment=chatgpt
+add list=chatgpt address=52.0.168.0/24 comment=chatgpt
 add list=chatgpt address=52.72.136.0/24 comment=chatgpt
 add list=chatgpt address=52.85.154.0/24 comment=chatgpt
 add list=chatgpt address=52.153.191.0/24 comment=chatgpt
