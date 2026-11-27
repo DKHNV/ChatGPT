@@ -1,1 +1,2 @@
 credit-check.api.openai.com
+fde.openai.com
